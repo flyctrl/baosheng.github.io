@@ -4912,19 +4912,21 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/12/sublime-text-2%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</loc>
+    <loc>http://www.grycheng.com/2015/09/22/sublime%E6%8F%92%E4%BB%B6-phaser-completions/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Sublime Text 2快捷键大全</title>
-        <pubTime>2015-07-12T13:50:47.000Z</pubTime>
+        <title>Sublime插件—Phaser Completions</title>
+        <pubTime>2015-09-22T05:08:58.000Z</pubTime>
         
-        <tag>Sublime</tag>
+        <tag>Phaser Completions</tag>
+         
+        <tag>Sublime插件phaser</tag>
          
          
            
              
-              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+              <breadCrumb title="Phaser" url="http://www.grycheng.com/categories/Phaser/"/>
           
         </display>
     </data>
@@ -5032,14 +5034,16 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/13/ie%E6%9D%A1%E4%BB%B6%E6%B3%A8%E9%87%8A%E5%8F%AF%E4%BB%A5%E6%80%8E%E4%B9%88%E7%8E%A9/</loc>
+    <loc>http://www.grycheng.com/2015/07/13/ie%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8B%E5%8E%BB%E6%8E%89%E9%93%BE%E6%8E%A5%E7%AD%89%E7%9A%84%E8%99%9A%E8%BE%B9%E6%A1%86/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>IE条件注释可以怎么玩</title>
-        <pubTime>2015-07-13T05:40:54.000Z</pubTime>
+        <title>IE浏览器下去掉链接等的虚边框</title>
+        <pubTime>2015-07-13T07:51:58.000Z</pubTime>
         
-        <tag>IE注释</tag>
+        <tag>ie虚边框</tag>
+         
+        <tag>ie链接</tag>
          
          
            
@@ -5076,16 +5080,36 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/13/ie%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8B%E5%8E%BB%E6%8E%89%E9%93%BE%E6%8E%A5%E7%AD%89%E7%9A%84%E8%99%9A%E8%BE%B9%E6%A1%86/</loc>
+    <loc>http://www.grycheng.com/2016/04/06/iframe%E5%86%85%E5%AD%98%E9%87%8A%E6%94%BE%E5%92%8C%E9%AB%98%E5%BA%A6%E8%87%AA%E9%80%82%E5%BA%94/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>IE浏览器下去掉链接等的虚边框</title>
-        <pubTime>2015-07-13T07:51:58.000Z</pubTime>
+        <title>iframe内存释放和高度自适应</title>
+        <pubTime>2016-04-06T05:28:48.000Z</pubTime>
         
-        <tag>ie虚边框</tag>
+        <tag>iframe内存释放</tag>
          
-        <tag>ie链接</tag>
+        <tag>iframe高度自适应</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2015/07/13/ie%E6%9D%A1%E4%BB%B6%E6%B3%A8%E9%87%8A%E5%8F%AF%E4%BB%A5%E6%80%8E%E4%B9%88%E7%8E%A9/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>IE条件注释可以怎么玩</title>
+        <pubTime>2015-07-13T05:40:54.000Z</pubTime>
+        
+        <tag>IE注释</tag>
          
          
            
@@ -5111,28 +5135,6 @@
            
              
               <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.grycheng.com/2016/04/06/iframe%E5%86%85%E5%AD%98%E9%87%8A%E6%94%BE%E5%92%8C%E9%AB%98%E5%BA%A6%E8%87%AA%E9%80%82%E5%BA%94/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>iframe内存释放和高度自适应</title>
-        <pubTime>2016-04-06T05:28:48.000Z</pubTime>
-        
-        <tag>iframe内存释放</tag>
-         
-        <tag>iframe高度自适应</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -5304,16 +5306,16 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2017/10/09/Git%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E8%A1%A8/</loc>
+    <loc>http://www.grycheng.com/2017/08/23/Git%E4%B8%80%E9%94%AE%E5%90%8C%E6%AD%A5%E5%88%B0%E5%A4%9A%E4%B8%AA%E4%B8%8D%E5%90%8C%E4%BB%A3%E7%A0%81%E5%BA%93/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Git常用命令速查表</title>
-        <pubTime>2017-10-09T01:24:33.000Z</pubTime>
+        <title>Git一键同步到多个不同代码库</title>
+        <pubTime>2017-08-22T16:30:04.000Z</pubTime>
         
-        <tag>Git</tag>
+        <tag>git</tag>
          
-        <tag>Git常用命令</tag>
+        <tag>git使用两个库</tag>
          
          
            
@@ -5454,14 +5456,16 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2016/07/08/17%E4%B8%AA%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%84css%E7%9F%A5%E8%AF%86%E7%82%B9/</loc>
+    <loc>http://www.grycheng.com/2015/07/12/bordernone%E4%B8%8Eborder0%E7%9A%84%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90%E6%AF%94%E8%BE%83/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>17个必须知道的css知识点</title>
-        <pubTime>2016-07-08T13:02:54.000Z</pubTime>
+        <title>border:none与border:0的深入分析比较</title>
+        <pubTime>2015-07-12T13:39:34.000Z</pubTime>
         
-        <tag>css知识点</tag>
+        <tag>border:0</tag>
+         
+        <tag>border:none</tag>
          
          
            
@@ -5542,21 +5546,19 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/09/22/sublime%E6%8F%92%E4%BB%B6-phaser-completions/</loc>
+    <loc>http://www.grycheng.com/2015/07/12/sublime-text-2%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Sublime插件—Phaser Completions</title>
-        <pubTime>2015-09-22T05:08:58.000Z</pubTime>
+        <title>Sublime Text 2快捷键大全</title>
+        <pubTime>2015-07-12T13:50:47.000Z</pubTime>
         
-        <tag>Phaser Completions</tag>
-         
-        <tag>Sublime插件phaser</tag>
+        <tag>Sublime</tag>
          
          
            
              
-              <breadCrumb title="Phaser" url="http://www.grycheng.com/categories/Phaser/"/>
+              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
           
         </display>
     </data>
@@ -5734,6 +5736,26 @@
 
     
   <url>
+    <loc>http://www.grycheng.com/2015/07/12/web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>Web前端开发规范文档</title>
+        <pubTime>2015-07-12T13:15:53.000Z</pubTime>
+        
+        <tag>前端规范</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.grycheng.com/2016/10/08/javascript-%E5%B8%B8%E7%94%A8dom%E6%93%8D%E4%BD%9C%E6%95%B4%E7%90%86/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -5769,26 +5791,6 @@
            
              
               <breadCrumb title="插件库" url="http://www.grycheng.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.grycheng.com/2015/07/12/web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>Web前端开发规范文档</title>
-        <pubTime>2015-07-12T13:15:53.000Z</pubTime>
-        
-        <tag>前端规范</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
           
         </display>
     </data>
@@ -5876,6 +5878,24 @@
 
     
   <url>
+    <loc>http://www.grycheng.com/2015/07/12/%E4%B8%8D%E8%B6%B3%E4%B8%80%E5%B1%8F%E6%97%B6%EF%BC%8C%E9%A1%B5%E9%9D%A2%E5%BA%95%E9%83%A8%E4%BD%8D%E4%BA%8E%E6%B5%8F%E8%A7%88%E5%99%A8%E5%BA%95%E9%83%A8%EF%BC%88%E7%94%A8css%E8%A7%A3%E5%86%B3/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>不足一屏时，页面底部位于浏览器底部（用CSS解决）</title>
+        <pubTime>2015-07-12T13:33:07.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.grycheng.com/categories/HTML5-CSS3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.grycheng.com/2016/01/11/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E7%9A%84web%E5%89%8D%E7%AB%AF%E5%8F%98%E7%9A%84%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%8D%E6%9D%82/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -5889,24 +5909,6 @@
            
              
               <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.grycheng.com/2015/07/12/%E4%B8%8D%E8%B6%B3%E4%B8%80%E5%B1%8F%E6%97%B6%EF%BC%8C%E9%A1%B5%E9%9D%A2%E5%BA%95%E9%83%A8%E4%BD%8D%E4%BA%8E%E6%B5%8F%E8%A7%88%E5%99%A8%E5%BA%95%E9%83%A8%EF%BC%88%E7%94%A8css%E8%A7%A3%E5%86%B3/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>不足一屏时，页面底部位于浏览器底部（用CSS解决）</title>
-        <pubTime>2015-07-12T13:33:07.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="HTML5/CSS3" url="http://www.grycheng.com/categories/HTML5-CSS3/"/>
           
         </display>
     </data>
@@ -5934,16 +5936,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/12/bordernone%E4%B8%8Eborder0%E7%9A%84%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90%E6%AF%94%E8%BE%83/</loc>
+    <loc>http://www.grycheng.com/2016/07/08/17%E4%B8%AA%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%84css%E7%9F%A5%E8%AF%86%E7%82%B9/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>border:none与border:0的深入分析比较</title>
-        <pubTime>2015-07-12T13:39:34.000Z</pubTime>
+        <title>17个必须知道的css知识点</title>
+        <pubTime>2016-07-08T13:02:54.000Z</pubTime>
         
-        <tag>border:0</tag>
-         
-        <tag>border:none</tag>
+        <tag>css知识点</tag>
          
          
            
@@ -6184,14 +6184,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/10/07/javascript%E5%88%A4%E6%96%AD%E6%89%8B%E6%9C%BA%E5%8F%B7%E8%BF%90%E8%90%A5%E5%95%86%E6%98%AF%E7%A7%BB%E5%8A%A8%E3%80%81%E8%81%94%E9%80%9A%E3%80%81%E7%94%B5%E4%BF%A1%E8%BF%98%E6%98%AF%E5%85%B6%E4%BB%96/</loc>
+    <loc>http://www.grycheng.com/2016/04/07/javascript%E5%87%BD%E6%95%B0%E6%8E%A2%E7%B4%A2%E4%B8%8E%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>JavaScript判断手机号运营商是移动、联通、电信还是其他</title>
-        <pubTime>2015-10-07T09:13:58.000Z</pubTime>
+        <title>javascript函数探索与总结</title>
+        <pubTime>2016-04-07T02:50:40.000Z</pubTime>
         
-        <tag>js判断手机号运营商</tag>
+        <tag>javascript函数</tag>
          
          
            
@@ -6204,14 +6204,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2016/04/07/javascript%E5%87%BD%E6%95%B0%E6%8E%A2%E7%B4%A2%E4%B8%8E%E6%80%BB%E7%BB%93/</loc>
+    <loc>http://www.grycheng.com/2015/10/07/javascript%E5%88%A4%E6%96%AD%E6%89%8B%E6%9C%BA%E5%8F%B7%E8%BF%90%E8%90%A5%E5%95%86%E6%98%AF%E7%A7%BB%E5%8A%A8%E3%80%81%E8%81%94%E9%80%9A%E3%80%81%E7%94%B5%E4%BF%A1%E8%BF%98%E6%98%AF%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>javascript函数探索与总结</title>
-        <pubTime>2016-04-07T02:50:40.000Z</pubTime>
+        <title>JavaScript判断手机号运营商是移动、联通、电信还是其他</title>
+        <pubTime>2015-10-07T09:13:58.000Z</pubTime>
         
-        <tag>javascript函数</tag>
+        <tag>js判断手机号运营商</tag>
          
          
            
@@ -6244,14 +6244,16 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/13/%E5%85%B3%E4%BA%8Escrollbar-face-color%E5%8F%AA%E6%94%AF%E6%8C%81ie%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</loc>
+    <loc>http://www.grycheng.com/2015/12/23/%E5%85%B3%E4%BA%8Ehtml5%E6%A0%87%E7%AD%BE%E4%B8%8D%E5%85%BC%E5%AE%B9ie68/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>关于scrollbar-face-color只支持ie的解决方法</title>
-        <pubTime>2015-07-13T07:57:00.000Z</pubTime>
+        <title>关于HTML5标签不兼容(IE6~8)</title>
+        <pubTime>2015-12-23T01:48:00.000Z</pubTime>
         
-        <tag>scrollbar-face-color</tag>
+        <tag>H5标签不兼容</tag>
+         
+        <tag>html5不兼容</tag>
          
          
            
@@ -6264,16 +6266,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/12/23/%E5%85%B3%E4%BA%8Ehtml5%E6%A0%87%E7%AD%BE%E4%B8%8D%E5%85%BC%E5%AE%B9ie68/</loc>
+    <loc>http://www.grycheng.com/2015/07/13/%E5%85%B3%E4%BA%8Escrollbar-face-color%E5%8F%AA%E6%94%AF%E6%8C%81ie%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>关于HTML5标签不兼容(IE6~8)</title>
-        <pubTime>2015-12-23T01:48:00.000Z</pubTime>
+        <title>关于scrollbar-face-color只支持ie的解决方法</title>
+        <pubTime>2015-07-13T07:57:00.000Z</pubTime>
         
-        <tag>H5标签不兼容</tag>
-         
-        <tag>html5不兼容</tag>
+        <tag>scrollbar-face-color</tag>
          
          
            
@@ -6346,26 +6346,6 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/13/css%E4%B8%AD%E7%9A%84%E7%BB%A7%E6%89%BF/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>css中的继承</title>
-        <pubTime>2015-07-13T08:32:30.000Z</pubTime>
-        
-        <tag>css继承</tag>
-         
-         
-           
-             
-              <breadCrumb title="HTML5/CSS3" url="http://www.grycheng.com/categories/HTML5-CSS3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.grycheng.com/2016/01/07/%E5%85%BC%E5%AE%B9%E5%90%84%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E8%AE%BE%E4%B8%BA%E9%A6%96%E9%A1%B5%E5%92%8C%E5%8A%A0%E5%85%A5%E6%94%B6%E8%97%8F%E4%BB%A3%E7%A0%81/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -6379,6 +6359,26 @@
            
              
               <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2015/07/13/css%E4%B8%AD%E7%9A%84%E7%BB%A7%E6%89%BF/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>css中的继承</title>
+        <pubTime>2015-07-13T08:32:30.000Z</pubTime>
+        
+        <tag>css继承</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.grycheng.com/categories/HTML5-CSS3/"/>
           
         </display>
     </data>
@@ -6722,21 +6722,23 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2017/10/27/ES5%E5%92%8CES6%E5%BC%80%E5%8F%91%E4%B8%AD%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E7%AE%80%E5%86%99%E6%8A%80%E5%B7%A7/</loc>
+    <loc>http://www.grycheng.com/2017/10/31/React%E4%B8%AD%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BD%BF%E7%94%A8%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>ES5和ES6开发中需要知道的简写技巧</title>
-        <pubTime>2017-10-27T05:02:30.000Z</pubTime>
+        <title>React中什么时候使用箭头函数</title>
+        <pubTime>2017-10-31T07:24:14.000Z</pubTime>
         
-        <tag>ES5开发技巧</tag>
+        <tag>箭头函数</tag>
          
-        <tag>ES6开发技巧</tag>
+        <tag>React</tag>
+         
+        <tag>React中什么时候使用箭头函数</tag>
          
          
            
              
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+              <breadCrumb title="Reactjs" url="http://www.grycheng.com/categories/Reactjs/"/>
           
         </display>
     </data>
@@ -6940,26 +6942,6 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/09/18/javascript%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E5%87%BD%E6%95%B0/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>Javascript算术运算函数</title>
-        <pubTime>2015-09-18T08:41:03.000Z</pubTime>
-        
-        <tag>js算术函数</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.grycheng.com/2015/08/26/%E5%9B%BD%E5%86%85ued%E6%94%B6%E5%BD%95%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -6973,6 +6955,26 @@
            
              
               <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2015/09/18/javascript%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E5%87%BD%E6%95%B0/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>Javascript算术运算函数</title>
+        <pubTime>2015-09-18T08:41:03.000Z</pubTime>
+        
+        <tag>js算术函数</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -7020,14 +7022,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2016/01/14/css%E5%AE%9A%E4%B9%89input-disabled%E6%A0%B7%E5%BC%8F/</loc>
+    <loc>http://www.grycheng.com/2015/07/13/css%E5%88%A4%E6%96%AD%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>CSS定义input disabled样式</title>
-        <pubTime>2016-01-13T16:14:19.000Z</pubTime>
+        <title>CSS判断浏览器</title>
+        <pubTime>2015-07-13T05:44:17.000Z</pubTime>
         
-        <tag>CSS定义input disabled样式</tag>
+        <tag>css判断浏览器</tag>
          
          
            
@@ -7060,14 +7062,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/13/css%E5%88%A4%E6%96%AD%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
+    <loc>http://www.grycheng.com/2016/01/14/css%E5%AE%9A%E4%B9%89input-disabled%E6%A0%B7%E5%BC%8F/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>CSS判断浏览器</title>
-        <pubTime>2015-07-13T05:44:17.000Z</pubTime>
+        <title>CSS定义input disabled样式</title>
+        <pubTime>2016-01-13T16:14:19.000Z</pubTime>
         
-        <tag>css判断浏览器</tag>
+        <tag>CSS定义input disabled样式</tag>
          
          
            
@@ -7160,23 +7162,21 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2017/10/31/React%E4%B8%AD%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BD%BF%E7%94%A8%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0/</loc>
+    <loc>http://www.grycheng.com/2017/10/27/ES5%E5%92%8CES6%E5%BC%80%E5%8F%91%E4%B8%AD%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E7%AE%80%E5%86%99%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>React中什么时候使用箭头函数</title>
-        <pubTime>2017-10-31T07:24:14.000Z</pubTime>
+        <title>ES5和ES6开发中需要知道的简写技巧</title>
+        <pubTime>2017-10-27T05:02:30.000Z</pubTime>
         
-        <tag>箭头函数</tag>
+        <tag>ES5开发技巧</tag>
          
-        <tag>React</tag>
-         
-        <tag>React中什么时候使用箭头函数</tag>
+        <tag>ES6开发技巧</tag>
          
          
            
              
-              <breadCrumb title="Reactjs" url="http://www.grycheng.com/categories/Reactjs/"/>
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -7290,14 +7290,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/18/%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%ADjavascript%E5%AF%B9%E8%B1%A1%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8/</loc>
+    <loc>http://www.grycheng.com/2015/10/28/jquery1-9%E4%B8%AD%E5%88%A0%E9%99%A4%E4%BA%86live%E4%BB%A5%E5%90%8E%E7%9A%84%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>如何判断Javascript对象是否存在</title>
-        <pubTime>2015-07-18T10:07:20.000Z</pubTime>
+        <title>jQuery1.9+中删除了live以后的替代方法</title>
+        <pubTime>2015-10-28T03:52:17.000Z</pubTime>
         
-        <tag>Javascript对象</tag>
+        <tag>jQuery删除了live以后的替代方法</tag>
          
          
            
@@ -7310,14 +7310,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/10/28/jquery1-9%E4%B8%AD%E5%88%A0%E9%99%A4%E4%BA%86live%E4%BB%A5%E5%90%8E%E7%9A%84%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%B3%95/</loc>
+    <loc>http://www.grycheng.com/2015/07/18/%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%ADjavascript%E5%AF%B9%E8%B1%A1%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>jQuery1.9+中删除了live以后的替代方法</title>
-        <pubTime>2015-10-28T03:52:17.000Z</pubTime>
+        <title>如何判断Javascript对象是否存在</title>
+        <pubTime>2015-07-18T10:07:20.000Z</pubTime>
         
-        <tag>jQuery删除了live以后的替代方法</tag>
+        <tag>Javascript对象</tag>
          
          
            
@@ -7370,21 +7370,19 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2016/04/07/cookie%E5%AD%98%E5%82%A8%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E9%98%B2%E8%8C%83%EF%BC%88%E9%98%B2%E6%AD%A2%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95%EF%BC%89/</loc>
+    <loc>http://www.grycheng.com/2015/07/13/css%E7%BA%AF%E8%8B%B1%E6%96%87%E6%95%B0%E5%AD%97%E8%87%AA%E5%8A%A8%E6%8D%A2%E8%A1%8C/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>cookie存储用户信息安全防范（防止模拟登录）</title>
-        <pubTime>2016-04-07T01:50:01.000Z</pubTime>
+        <title>CSS纯英文数字自动换行</title>
+        <pubTime>2015-07-13T07:19:05.000Z</pubTime>
         
-        <tag>cookie存储用户信息安全防范</tag>
-         
-        <tag>cookie防止模拟登录</tag>
+        <tag>自动换行</tag>
          
          
            
              
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+              <breadCrumb title="HTML5/CSS3" url="http://www.grycheng.com/categories/HTML5-CSS3/"/>
           
         </display>
     </data>
@@ -7452,19 +7450,41 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/13/css%E7%BA%AF%E8%8B%B1%E6%96%87%E6%95%B0%E5%AD%97%E8%87%AA%E5%8A%A8%E6%8D%A2%E8%A1%8C/</loc>
+    <loc>http://www.grycheng.com/2016/04/07/cookie%E5%AD%98%E5%82%A8%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E9%98%B2%E8%8C%83%EF%BC%88%E9%98%B2%E6%AD%A2%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95%EF%BC%89/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>CSS纯英文数字自动换行</title>
-        <pubTime>2015-07-13T07:19:05.000Z</pubTime>
+        <title>cookie存储用户信息安全防范（防止模拟登录）</title>
+        <pubTime>2016-04-07T01:50:01.000Z</pubTime>
         
-        <tag>自动换行</tag>
+        <tag>cookie存储用户信息安全防范</tag>
+         
+        <tag>cookie防止模拟登录</tag>
          
          
            
              
-              <breadCrumb title="HTML5/CSS3" url="http://www.grycheng.com/categories/HTML5-CSS3/"/>
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2015/09/07/%E5%A6%82%E4%BD%95%E7%94%A8javascript%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E9%AA%8C%E8%AF%81%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E7%A0%81%E6%98%AF%E5%90%A6%E5%90%88%E6%B3%95/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>如何用javascript正则表达式验证身份证号码是否合法</title>
+        <pubTime>2015-09-07T09:47:20.000Z</pubTime>
+        
+        <tag>js验证身份证是否合法</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -7498,26 +7518,6 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/09/07/%E5%A6%82%E4%BD%95%E7%94%A8javascript%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E9%AA%8C%E8%AF%81%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E7%A0%81%E6%98%AF%E5%90%A6%E5%90%88%E6%B3%95/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>如何用javascript正则表达式验证身份证号码是否合法</title>
-        <pubTime>2015-09-07T09:47:20.000Z</pubTime>
-        
-        <tag>js验证身份证是否合法</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.grycheng.com/2015/08/26/%E5%A6%82%E4%BD%95%E7%94%A8%E5%8E%9F%E7%94%9F%E6%80%81%E7%9A%84js%E5%AE%9E%E7%8E%B0%E7%B1%BB%E4%BC%BCjquery%E7%9A%84id%EF%BC%8C-selector%E7%AD%89%E5%8A%9F%E8%83%BD/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -7538,14 +7538,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/08/05/jquery%E4%B8%ADattr%E5%92%8Cprop%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
+    <loc>http://www.grycheng.com/2015/07/16/jquery%E4%B8%AD%E5%85%B3%E4%BA%8Eon%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>jquery中attr和prop的区别</title>
-        <pubTime>2015-08-05T07:26:52.000Z</pubTime>
+        <title>jQuery中关于on的使用</title>
+        <pubTime>2015-07-16T02:50:49.000Z</pubTime>
         
-        <tag>attr和prop的区别</tag>
+        <tag>on的使用</tag>
          
          
            
@@ -7602,6 +7602,26 @@
 
     
   <url>
+    <loc>http://www.grycheng.com/2015/07/13/%E5%A6%82%E4%BD%95%E8%AE%A9iframe%E6%9C%89%E9%80%8F%E6%98%8E%E6%95%88%E6%9E%9C/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>如何让iframe有透明效果</title>
+        <pubTime>2015-07-13T08:26:12.000Z</pubTime>
+        
+        <tag>iframe透明</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.grycheng.com/categories/HTML5-CSS3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.grycheng.com/2015/07/13/%E5%A6%82%E4%BD%95%E8%AE%A9iframe%E8%87%AA%E9%80%82%E5%BA%94%E9%AB%98%E5%BA%A6-iframe%E5%8E%BB%E6%8E%89%E6%BB%9A%E5%8A%A8%E6%9D%A1/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -7626,34 +7646,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/13/%E5%A6%82%E4%BD%95%E8%AE%A9iframe%E6%9C%89%E9%80%8F%E6%98%8E%E6%95%88%E6%9E%9C/</loc>
+    <loc>http://www.grycheng.com/2015/08/05/jquery%E4%B8%ADattr%E5%92%8Cprop%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>如何让iframe有透明效果</title>
-        <pubTime>2015-07-13T08:26:12.000Z</pubTime>
+        <title>jquery中attr和prop的区别</title>
+        <pubTime>2015-08-05T07:26:52.000Z</pubTime>
         
-        <tag>iframe透明</tag>
-         
-         
-           
-             
-              <breadCrumb title="HTML5/CSS3" url="http://www.grycheng.com/categories/HTML5-CSS3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.grycheng.com/2015/07/16/jquery%E4%B8%AD%E5%85%B3%E4%BA%8Eon%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>jQuery中关于on的使用</title>
-        <pubTime>2015-07-16T02:50:49.000Z</pubTime>
-        
-        <tag>on的使用</tag>
+        <tag>attr和prop的区别</tag>
          
          
            
@@ -7892,14 +7892,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/12/div%E5%AE%BD%E5%BA%A6%E8%87%AA%E9%80%82%E5%BA%94%E9%97%AE%E9%A2%98/</loc>
+    <loc>http://www.grycheng.com/2015/07/13/divcss%E7%BD%91%E9%A1%B5%E5%B8%83%E5%B1%80%E4%B8%ADcss%E6%97%A0%E6%95%88%E7%9A%84%E5%8D%81%E4%B8%AA%E5%B8%B8%E8%A7%81%E5%8E%9F%E5%9B%A0/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>div宽度自适应问题</title>
-        <pubTime>2015-07-12T13:22:12.000Z</pubTime>
+        <title>Div+CSS网页布局中CSS无效的十个常见原因</title>
+        <pubTime>2015-07-13T08:21:24.000Z</pubTime>
         
-        <tag>宽度自适应</tag>
+        <tag>网页布局</tag>
          
          
            
@@ -7912,14 +7912,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/13/divcss%E7%BD%91%E9%A1%B5%E5%B8%83%E5%B1%80%E4%B8%ADcss%E6%97%A0%E6%95%88%E7%9A%84%E5%8D%81%E4%B8%AA%E5%B8%B8%E8%A7%81%E5%8E%9F%E5%9B%A0/</loc>
+    <loc>http://www.grycheng.com/2015/07/12/div%E5%AE%BD%E5%BA%A6%E8%87%AA%E9%80%82%E5%BA%94%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Div+CSS网页布局中CSS无效的十个常见原因</title>
-        <pubTime>2015-07-13T08:21:24.000Z</pubTime>
+        <title>div宽度自适应问题</title>
+        <pubTime>2015-07-12T13:22:12.000Z</pubTime>
         
-        <tag>网页布局</tag>
+        <tag>宽度自适应</tag>
          
          
            
@@ -7992,25 +7992,21 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2016/03/11/dot-js%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</loc>
+    <loc>http://www.grycheng.com/2015/12/18/eval%E5%87%BD%E6%95%B0%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>DOT.JS使用详解</title>
-        <pubTime>2016-03-11T15:41:04.000Z</pubTime>
+        <title>eval()函数用法详解</title>
+        <pubTime>2015-12-18T02:19:41.000Z</pubTime>
         
-        <tag>DOT.JS</tag>
+        <tag>eval()函数</tag>
          
-        <tag>DOT.JS使用介绍</tag>
-         
-        <tag>DOT.JS使用详解</tag>
-         
-        <tag>DOT.JS使用说明</tag>
+        <tag>eval()函数用法</tag>
          
          
            
              
-              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -8038,28 +8034,6 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/12/18/eval%E5%87%BD%E6%95%B0%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>eval()函数用法详解</title>
-        <pubTime>2015-12-18T02:19:41.000Z</pubTime>
-        
-        <tag>eval()函数</tag>
-         
-        <tag>eval()函数用法</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.grycheng.com/2015/07/17/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80%8E%E4%B9%88%E5%86%99jquery%E6%8F%92%E4%BB%B6/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -8073,6 +8047,32 @@
            
              
               <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2016/03/11/dot-js%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>DOT.JS使用详解</title>
+        <pubTime>2016-03-11T15:41:04.000Z</pubTime>
+        
+        <tag>DOT.JS</tag>
+         
+        <tag>DOT.JS使用介绍</tag>
+         
+        <tag>DOT.JS使用详解</tag>
+         
+        <tag>DOT.JS使用说明</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
           
         </display>
     </data>
@@ -8250,26 +8250,6 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/08/03/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%E6%96%B9%E6%B3%95%E5%B0%8F%E7%BB%93/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>数组去重方法小结</title>
-        <pubTime>2015-08-03T10:09:27.000Z</pubTime>
-        
-        <tag>数组去重</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.grycheng.com/2015/08/05/%E6%95%99%E4%BD%A0%E5%88%9B%E5%BB%BA%E6%9B%B4%E5%A5%BD%E7%9A%84jquery%E6%8F%92%E4%BB%B6/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -8290,19 +8270,19 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/17/%E6%96%87%E6%9C%AC%E6%A1%86%E7%A6%81%E6%AD%A2%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E6%93%8D%E4%BD%9C/</loc>
+    <loc>http://www.grycheng.com/2015/08/03/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%E6%96%B9%E6%B3%95%E5%B0%8F%E7%BB%93/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>文本框禁止复制粘贴操作</title>
-        <pubTime>2015-07-17T04:16:32.000Z</pubTime>
+        <title>数组去重方法小结</title>
+        <pubTime>2015-08-03T10:09:27.000Z</pubTime>
         
-        <tag>文本框禁止复制粘贴</tag>
+        <tag>数组去重</tag>
          
          
            
              
-              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -8329,6 +8309,26 @@
            
              
               <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2015/07/17/%E6%96%87%E6%9C%AC%E6%A1%86%E7%A6%81%E6%AD%A2%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E6%93%8D%E4%BD%9C/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>文本框禁止复制粘贴操作</title>
+        <pubTime>2015-07-17T04:16:32.000Z</pubTime>
+        
+        <tag>文本框禁止复制粘贴</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
           
         </display>
     </data>
@@ -8650,19 +8650,21 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/24/css3-box%E7%9B%92%E5%AD%90%E6%A8%A1%E5%9E%8B%E4%BB%A5%E5%8F%8Abox-flex%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
+    <loc>http://www.grycheng.com/2017/10/27/Ant%20Design%E4%B8%AD%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6%E9%AA%8C%E8%AF%81/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>css3 box盒子模型以及box-flex的使用</title>
-        <pubTime>2015-07-24T10:23:24.000Z</pubTime>
+        <title>Ant Design中实现自定义组件验证</title>
+        <pubTime>2017-10-27T07:25:23.000Z</pubTime>
         
-        <tag>box-flex</tag>
+        <tag>Ant Design</tag>
+         
+        <tag>Ant Design自定义组件验证</tag>
          
          
            
              
-              <breadCrumb title="HTML5/CSS3" url="http://www.grycheng.com/categories/HTML5-CSS3/"/>
+              <breadCrumb title="Reactjs" url="http://www.grycheng.com/categories/Reactjs/"/>
           
         </display>
     </data>
@@ -8690,43 +8692,19 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2016/03/25/%E6%B8%85%E9%99%A4%E5%BE%AE%E4%BF%A1%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BC%93%E5%AD%98/</loc>
+    <loc>http://www.grycheng.com/2015/07/24/css3-box%E7%9B%92%E5%AD%90%E6%A8%A1%E5%9E%8B%E4%BB%A5%E5%8F%8Abox-flex%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>清除微信浏览器缓存</title>
-        <pubTime>2016-03-25T15:45:45.000Z</pubTime>
+        <title>css3 box盒子模型以及box-flex的使用</title>
+        <pubTime>2015-07-24T10:23:24.000Z</pubTime>
         
-        <tag>清除微信浏览器缓存</tag>
-         
-        <tag>清除手机端浏览器缓存</tag>
-         
-        <tag>清除移动端浏览器缓存</tag>
+        <tag>box-flex</tag>
          
          
            
              
-              <breadCrumb title="移动前端" url="http://www.grycheng.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.grycheng.com/2015/07/13/a-focus%E6%96%B9%E6%B3%95%E5%9C%A8google%E6%B5%8F%E8%A7%88%E5%99%A8%E6%97%A0%E6%95%88%E6%9E%9C/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>$('#a').focus()方法在google浏览器无效果</title>
-        <pubTime>2015-07-13T06:02:26.000Z</pubTime>
-        
-        <tag>focus</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+              <breadCrumb title="HTML5/CSS3" url="http://www.grycheng.com/categories/HTML5-CSS3/"/>
           
         </display>
     </data>
@@ -8749,6 +8727,30 @@
            
              
               <breadCrumb title="Phaser" url="http://www.grycheng.com/categories/Phaser/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2016/03/25/%E6%B8%85%E9%99%A4%E5%BE%AE%E4%BF%A1%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BC%93%E5%AD%98/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>清除微信浏览器缓存</title>
+        <pubTime>2016-03-25T15:45:45.000Z</pubTime>
+        
+        <tag>清除微信浏览器缓存</tag>
+         
+        <tag>清除手机端浏览器缓存</tag>
+         
+        <tag>清除移动端浏览器缓存</tag>
+         
+         
+           
+             
+              <breadCrumb title="移动前端" url="http://www.grycheng.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
           
         </display>
     </data>
@@ -8798,41 +8800,19 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2017/10/27/Ant%20Design%E4%B8%AD%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6%E9%AA%8C%E8%AF%81/</loc>
+    <loc>http://www.grycheng.com/2015/07/13/a-focus%E6%96%B9%E6%B3%95%E5%9C%A8google%E6%B5%8F%E8%A7%88%E5%99%A8%E6%97%A0%E6%95%88%E6%9E%9C/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Ant Design中实现自定义组件验证</title>
-        <pubTime>2017-10-27T07:25:23.000Z</pubTime>
+        <title>$('#a').focus()方法在google浏览器无效果</title>
+        <pubTime>2015-07-13T06:02:26.000Z</pubTime>
         
-        <tag>Ant Design</tag>
-         
-        <tag>Ant Design自定义组件验证</tag>
+        <tag>focus</tag>
          
          
            
              
-              <breadCrumb title="Reactjs" url="http://www.grycheng.com/categories/Reactjs/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.grycheng.com/2015/07/12/%E7%80%91%E5%B8%83%E6%B5%81%E5%B8%83%E5%B1%80%E5%AE%9E%E4%BE%8B/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>瀑布流布局实例</title>
-        <pubTime>2015-07-12T13:11:03.000Z</pubTime>
-        
-        <tag>瀑布流</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+              <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
           
         </display>
     </data>
@@ -8860,41 +8840,19 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/13/jquery%E8%AE%B0%E4%BD%8F%E5%AF%86%E7%A0%81-%E6%8F%92%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
+    <loc>http://www.grycheng.com/2015/07/12/%E7%80%91%E5%B8%83%E6%B5%81%E5%B8%83%E5%B1%80%E5%AE%9E%E4%BE%8B/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>jQuery记住密码 插件的使用</title>
-        <pubTime>2015-07-13T07:16:48.000Z</pubTime>
+        <title>瀑布流布局实例</title>
+        <pubTime>2015-07-12T13:11:03.000Z</pubTime>
         
-        <tag>jq记住密码</tag>
+        <tag>瀑布流</tag>
          
          
            
              
-              <breadCrumb title="插件库" url="http://www.grycheng.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.grycheng.com/2015/07/12/ajax%E3%80%81json%E4%B8%8Ejsonp%E8%AF%A6%E8%A7%A3%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AFjson%E3%80%81jsonp%EF%BC%8C%E5%92%8Cajax%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>ajax、json与jsonp详解：什么是json、jsonp，和ajax的区别</title>
-        <pubTime>2015-07-12T13:05:58.000Z</pubTime>
-        
-        <tag>json</tag>
-         
-        <tag>jsonp</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
           
         </display>
     </data>
@@ -8919,6 +8877,48 @@
            
              
               <breadCrumb title="HTML5/CSS3" url="http://www.grycheng.com/categories/HTML5-CSS3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2015/07/13/jquery%E8%AE%B0%E4%BD%8F%E5%AF%86%E7%A0%81-%E6%8F%92%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>jQuery记住密码 插件的使用</title>
+        <pubTime>2015-07-13T07:16:48.000Z</pubTime>
+        
+        <tag>jq记住密码</tag>
+         
+         
+           
+             
+              <breadCrumb title="插件库" url="http://www.grycheng.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2017/10/09/Git%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E8%A1%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>Git常用命令速查表</title>
+        <pubTime>2017-10-09T01:24:33.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+        <tag>Git常用命令</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
           
         </display>
     </data>
@@ -9144,6 +9144,28 @@
 
     
   <url>
+    <loc>http://www.grycheng.com/2015/07/12/ajax%E3%80%81json%E4%B8%8Ejsonp%E8%AF%A6%E8%A7%A3%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AFjson%E3%80%81jsonp%EF%BC%8C%E5%92%8Cajax%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>ajax、json与jsonp详解：什么是json、jsonp，和ajax的区别</title>
+        <pubTime>2015-07-12T13:05:58.000Z</pubTime>
+        
+        <tag>json</tag>
+         
+        <tag>jsonp</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.grycheng.com/2015/07/13/ie6-%E4%B8%8B%E6%96%87%E5%AD%97%E5%92%8C%E5%9B%BE%E7%89%87%E4%B8%80%E8%B5%B7line-height%E5%A4%B1%E6%95%88%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -9157,28 +9179,6 @@
            
              
               <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.grycheng.com/2017/08/23/Git%E4%B8%80%E9%94%AE%E5%90%8C%E6%AD%A5%E5%88%B0%E5%A4%9A%E4%B8%AA%E4%B8%8D%E5%90%8C%E4%BB%A3%E7%A0%81%E5%BA%93/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>Git一键同步到多个不同代码库</title>
-        <pubTime>2017-08-22T16:30:04.000Z</pubTime>
-        
-        <tag>git</tag>
-         
-        <tag>git使用两个库</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
           
         </display>
     </data>
@@ -9246,6 +9246,26 @@
 
     
   <url>
+    <loc>http://www.grycheng.com/2015/07/12/js-%E7%BB%99%E9%A1%B5%E9%9D%A2%E6%89%80%E6%9C%89%E7%9A%84a%E6%A0%87%E7%AD%BE%E5%8A%A0%E6%9F%90%E4%B8%AA%E6%8E%A8%E5%B9%BF%E5%9C%B0%E5%9D%80%E6%A0%8F%E5%8F%82%E6%95%B0/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>js 给页面所有的A标签加某个推广地址栏参数</title>
+        <pubTime>2015-07-12T10:47:21.000Z</pubTime>
+        
+        <tag>js推广地址</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.grycheng.com/2015/07/10/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E4%BC%98%E5%8C%96%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -9261,26 +9281,6 @@
            
              
               <breadCrumb title="移动前端" url="http://www.grycheng.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.grycheng.com/2015/07/13/js-scrolltop%E5%9C%A8google%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8B%E4%B8%8D%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>js scrollTop在GOOGLE浏览器下不兼容问题</title>
-        <pubTime>2015-07-13T06:02:56.000Z</pubTime>
-        
-        <tag>scrolltop</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
           
         </display>
     </data>
@@ -9308,19 +9308,19 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/12/js-%E7%BB%99%E9%A1%B5%E9%9D%A2%E6%89%80%E6%9C%89%E7%9A%84a%E6%A0%87%E7%AD%BE%E5%8A%A0%E6%9F%90%E4%B8%AA%E6%8E%A8%E5%B9%BF%E5%9C%B0%E5%9D%80%E6%A0%8F%E5%8F%82%E6%95%B0/</loc>
+    <loc>http://www.grycheng.com/2015/07/13/js-scrolltop%E5%9C%A8google%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8B%E4%B8%8D%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>js 给页面所有的A标签加某个推广地址栏参数</title>
-        <pubTime>2015-07-12T10:47:21.000Z</pubTime>
+        <title>js scrollTop在GOOGLE浏览器下不兼容问题</title>
+        <pubTime>2015-07-13T06:02:56.000Z</pubTime>
         
-        <tag>js推广地址</tag>
+        <tag>scrolltop</tag>
          
          
            
              
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+              <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
           
         </display>
     </data>
@@ -9388,26 +9388,6 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/12/jsjquery%E5%AE%9E%E7%8E%B0%E9%BB%98%E8%AE%A4%E6%98%BE%E7%A4%BA%E9%83%A8%E5%88%86%E6%96%87%E5%AD%97%E7%82%B9%E5%87%BB%E6%8C%89%E9%92%AE%E6%98%BE%E7%A4%BA%E5%85%A8%E9%83%A8%E5%86%85%E5%AE%B9/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>JS/jQuery实现默认显示部分文字点击按钮显示全部内容</title>
-        <pubTime>2015-07-12T11:12:13.000Z</pubTime>
-        
-        <tag>文字显示</tag>
-         
-         
-           
-             
-              <breadCrumb title="插件库" url="http://www.grycheng.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.grycheng.com/2015/08/05/json%E7%AE%80%E4%BB%8B%E4%BB%A5%E5%8F%8A%E7%94%A8%E6%B3%95%E4%BB%A3%E7%A0%81%E6%B1%87%E6%80%BB/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -9416,6 +9396,38 @@
         <pubTime>2015-08-05T09:03:44.000Z</pubTime>
         
         <tag>json用法汇总</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2016/01/28/js%E4%B8%ADencodeuri%E5%92%8Cdecodeuri%E4%BB%8B%E7%BB%8D%E8%A7%A3%E5%86%B3url%E4%B8%AD%E4%BC%A0%E9%80%92%E4%B8%AD%E6%96%87%E5%8F%82%E6%95%B0%E4%B9%B1%E7%A0%81/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>js中encodeURI和decodeURI介绍(解决Url中传递中文参数乱码)</title>
+        <pubTime>2016-01-28T15:28:50.000Z</pubTime>
+        
+        <tag>decodeURI</tag>
+         
+        <tag>encodeURI</tag>
+         
+        <tag>js url传递中文参数乱码</tag>
+         
+        <tag>url 参数乱码</tag>
+         
+        <tag>url传参乱码</tag>
+         
+        <tag>url传递中文参数乱码</tag>
+         
+        <tag>url传递参数乱码</tag>
          
          
            
@@ -9470,6 +9482,26 @@
 
     
   <url>
+    <loc>http://www.grycheng.com/2015/07/12/jsjquery%E5%AE%9E%E7%8E%B0%E9%BB%98%E8%AE%A4%E6%98%BE%E7%A4%BA%E9%83%A8%E5%88%86%E6%96%87%E5%AD%97%E7%82%B9%E5%87%BB%E6%8C%89%E9%92%AE%E6%98%BE%E7%A4%BA%E5%85%A8%E9%83%A8%E5%86%85%E5%AE%B9/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>JS/jQuery实现默认显示部分文字点击按钮显示全部内容</title>
+        <pubTime>2015-07-12T11:12:13.000Z</pubTime>
+        
+        <tag>文字显示</tag>
+         
+         
+           
+             
+              <breadCrumb title="插件库" url="http://www.grycheng.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.grycheng.com/2015/07/13/ie6ie7%E4%B8%8B%E8%AE%BE%E7%BD%AEbodyoverflowhidden%E5%A4%B1%E6%95%88/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -9483,38 +9515,6 @@
            
              
               <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.grycheng.com/2016/01/28/js%E4%B8%ADencodeuri%E5%92%8Cdecodeuri%E4%BB%8B%E7%BB%8D%E8%A7%A3%E5%86%B3url%E4%B8%AD%E4%BC%A0%E9%80%92%E4%B8%AD%E6%96%87%E5%8F%82%E6%95%B0%E4%B9%B1%E7%A0%81/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>js中encodeURI和decodeURI介绍(解决Url中传递中文参数乱码)</title>
-        <pubTime>2016-01-28T15:28:50.000Z</pubTime>
-        
-        <tag>decodeURI</tag>
-         
-        <tag>encodeURI</tag>
-         
-        <tag>js url传递中文参数乱码</tag>
-         
-        <tag>url 参数乱码</tag>
-         
-        <tag>url传参乱码</tag>
-         
-        <tag>url传递中文参数乱码</tag>
-         
-        <tag>url传递参数乱码</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -9604,26 +9604,6 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/09/25/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BC%80%E5%8F%91%E8%A7%A6%E5%B1%8F%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%B0%81%E8%A3%85/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>移动端开发触屏事件的封装</title>
-        <pubTime>2015-09-25T09:02:55.000Z</pubTime>
-        
-        <tag>移动端触屏事件封装</tag>
-         
-         
-           
-             
-              <breadCrumb title="移动前端" url="http://www.grycheng.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.grycheng.com/2015/07/31/js%E5%88%A4%E6%96%AD%E9%BC%A0%E6%A0%87%E4%BB%8E%E4%BB%80%E4%B9%88%E6%96%B9%E5%90%91%E8%BF%9B%E5%85%A5%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -9637,6 +9617,26 @@
            
              
               <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2015/09/25/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BC%80%E5%8F%91%E8%A7%A6%E5%B1%8F%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%B0%81%E8%A3%85/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>移动端开发触屏事件的封装</title>
+        <pubTime>2015-09-25T09:02:55.000Z</pubTime>
+        
+        <tag>移动端触屏事件封装</tag>
+         
+         
+           
+             
+              <breadCrumb title="移动前端" url="http://www.grycheng.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
           
         </display>
     </data>
@@ -9770,26 +9770,6 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2016/01/07/%E7%BB%88%E6%9E%81%E7%89%88%E8%AE%A8%E8%AE%BAjavascript%E4%B8%AD%E7%9A%84this%EF%BC%8C%E5%85%A8%E6%96%B9%E9%9D%A2%E6%B8%97%E9%80%8F/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>终极版讨论javascript中的this，全方面渗透</title>
-        <pubTime>2016-01-07T14:39:05.000Z</pubTime>
-        
-        <tag>javascript中的this</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.grycheng.com/2015/09/13/js%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E5%BC%95%E5%85%A5%E7%9A%84js%E6%96%87%E4%BB%B6%E6%98%AF%E5%90%A6%E5%8A%A0%E8%BD%BD%E5%AE%8C%E6%AF%95/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -9810,19 +9790,43 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2016/11/02/js%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%BA%9B%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E5%85%BC%E5%AE%B9%E4%BA%8B%E4%BB%B6%E6%96%B9%E6%B3%95/</loc>
+    <loc>http://www.grycheng.com/2016/01/07/%E7%BB%88%E6%9E%81%E7%89%88%E8%AE%A8%E8%AE%BAjavascript%E4%B8%AD%E7%9A%84this%EF%BC%8C%E5%85%A8%E6%96%B9%E9%9D%A2%E6%B8%97%E9%80%8F/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>js实现一些跨浏览器的兼容事件方法</title>
-        <pubTime>2016-11-02T02:20:50.000Z</pubTime>
+        <title>终极版讨论javascript中的this，全方面渗透</title>
+        <pubTime>2016-01-07T14:39:05.000Z</pubTime>
         
-        <tag>js跨浏览器的兼容事件方法</tag>
+        <tag>javascript中的this</tag>
          
          
            
              
               <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2015/07/13/ie6%E4%B8%8D%E6%94%AF%E6%8C%81min-height%E3%80%81max-height%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>IE6不支持min-height、max-height的解决办法</title>
+        <pubTime>2015-07-13T07:53:56.000Z</pubTime>
+        
+        <tag>ie6</tag>
+         
+        <tag>max-height</tag>
+         
+        <tag>min-height</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
           
         </display>
     </data>
@@ -9850,23 +9854,19 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/13/ie6%E4%B8%8D%E6%94%AF%E6%8C%81min-height%E3%80%81max-height%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</loc>
+    <loc>http://www.grycheng.com/2016/11/02/js%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%BA%9B%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E5%85%BC%E5%AE%B9%E4%BA%8B%E4%BB%B6%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>IE6不支持min-height、max-height的解决办法</title>
-        <pubTime>2015-07-13T07:53:56.000Z</pubTime>
+        <title>js实现一些跨浏览器的兼容事件方法</title>
+        <pubTime>2016-11-02T02:20:50.000Z</pubTime>
         
-        <tag>ie6</tag>
-         
-        <tag>max-height</tag>
-         
-        <tag>min-height</tag>
+        <tag>js跨浏览器的兼容事件方法</tag>
          
          
            
              
-              <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -10040,19 +10040,25 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/13/ie6%E4%B8%AD%E6%96%87%E5%AD%97%E6%BA%A2%E5%87%BA%E9%97%AE%E9%A2%98-%E5%A4%9A%E5%87%BA%E6%96%87%E5%AD%97/</loc>
+    <loc>http://www.grycheng.com/2016/03/04/js%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%87%A0%E4%B8%AA%E6%96%B9%E6%B3%95%E4%BB%8B%E7%BB%8D/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>IE6中文字溢出问题-多出文字</title>
-        <pubTime>2015-07-13T06:09:24.000Z</pubTime>
+        <title>JS对象的几个方法介绍</title>
+        <pubTime>2016-03-04T08:54:20.000Z</pubTime>
         
-        <tag>IE6文字溢出</tag>
+        <tag>constructor</tag>
+         
+        <tag>hasOwnProperty</tag>
+         
+        <tag>instanceof</tag>
+         
+        <tag>toString</tag>
          
          
            
              
-              <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -10080,25 +10086,19 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2016/03/04/js%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%87%A0%E4%B8%AA%E6%96%B9%E6%B3%95%E4%BB%8B%E7%BB%8D/</loc>
+    <loc>http://www.grycheng.com/2015/07/13/ie6%E4%B8%AD%E6%96%87%E5%AD%97%E6%BA%A2%E5%87%BA%E9%97%AE%E9%A2%98-%E5%A4%9A%E5%87%BA%E6%96%87%E5%AD%97/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>JS对象的几个方法介绍</title>
-        <pubTime>2016-03-04T08:54:20.000Z</pubTime>
+        <title>IE6中文字溢出问题-多出文字</title>
+        <pubTime>2015-07-13T06:09:24.000Z</pubTime>
         
-        <tag>constructor</tag>
-         
-        <tag>hasOwnProperty</tag>
-         
-        <tag>instanceof</tag>
-         
-        <tag>toString</tag>
+        <tag>IE6文字溢出</tag>
          
          
            
              
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+              <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
           
         </display>
     </data>
@@ -10128,21 +10128,19 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2017/10/27/axios%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</loc>
+    <loc>http://www.grycheng.com/2015/07/31/ie6%E5%B8%B8%E8%A7%81bug/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>axios使用详解</title>
-        <pubTime>2017-10-27T05:33:45.000Z</pubTime>
+        <title>IE6常见bug</title>
+        <pubTime>2015-07-31T05:25:22.000Z</pubTime>
         
-        <tag>axios使用方法</tag>
-         
-        <tag>axios使用详解</tag>
+        <tag>IE6常见bug</tag>
          
          
            
              
-              <breadCrumb title="ECMAScript6" url="http://www.grycheng.com/categories/ECMAScript6/"/>
+              <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
           
         </display>
     </data>
@@ -10234,25 +10232,21 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/26/js%E6%B7%BB%E5%8A%A0%E4%BA%8B%E4%BB%B6attachevent%E5%92%8Caddeventlistener%E7%9A%84%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/</loc>
+    <loc>http://www.grycheng.com/2015/07/13/ie7ie8%E6%80%AA%E7%99%96%E6%A8%A1%E5%BC%8F%E4%B8%8Breflow%E4%B8%8Eexpression%E5%AF%BC%E8%87%B4%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Js添加事件attachEvent和addEventListener的用法详解</title>
-        <pubTime>2015-07-26T07:16:58.000Z</pubTime>
+        <title>IE7,IE8怪癖模式下reflow与expression导致的问题</title>
+        <pubTime>2015-07-13T05:52:30.000Z</pubTime>
         
-        <tag>addEventListener</tag>
+        <tag>expression</tag>
          
-        <tag>attachEvent</tag>
-         
-        <tag>attachEvent和addEventListener区别</tag>
-         
-        <tag>attachEvent和addEventListener用法</tag>
+        <tag>reflow</tag>
          
          
            
              
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+              <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
           
         </display>
     </data>
@@ -10324,19 +10318,45 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/31/ie6%E5%B8%B8%E8%A7%81bug/</loc>
+    <loc>http://www.grycheng.com/2015/07/26/js%E6%B7%BB%E5%8A%A0%E4%BA%8B%E4%BB%B6attachevent%E5%92%8Caddeventlistener%E7%9A%84%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>IE6常见bug</title>
-        <pubTime>2015-07-31T05:25:22.000Z</pubTime>
+        <title>Js添加事件attachEvent和addEventListener的用法详解</title>
+        <pubTime>2015-07-26T07:16:58.000Z</pubTime>
         
-        <tag>IE6常见bug</tag>
+        <tag>addEventListener</tag>
+         
+        <tag>attachEvent</tag>
+         
+        <tag>attachEvent和addEventListener区别</tag>
+         
+        <tag>attachEvent和addEventListener用法</tag>
          
          
            
              
-              <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2015/12/23/%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%B9%B3%E5%8F%B0%E8%8E%B7%E5%8F%96%E9%BC%A0%E6%A0%87%E4%BD%8D%E7%BD%AE/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>跨浏览器平台获取鼠标位置</title>
+        <pubTime>2015-12-23T05:55:31.000Z</pubTime>
+        
+        <tag>跨浏览器获取鼠标位置</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -10369,26 +10389,6 @@
            
              
               <breadCrumb title="插件库" url="http://www.grycheng.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.grycheng.com/2015/12/23/%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%B9%B3%E5%8F%B0%E8%8E%B7%E5%8F%96%E9%BC%A0%E6%A0%87%E4%BD%8D%E7%BD%AE/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>跨浏览器平台获取鼠标位置</title>
-        <pubTime>2015-12-23T05:55:31.000Z</pubTime>
-        
-        <tag>跨浏览器获取鼠标位置</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -10546,28 +10546,6 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/13/ie7ie8%E6%80%AA%E7%99%96%E6%A8%A1%E5%BC%8F%E4%B8%8Breflow%E4%B8%8Eexpression%E5%AF%BC%E8%87%B4%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>IE7,IE8怪癖模式下reflow与expression导致的问题</title>
-        <pubTime>2015-07-13T05:52:30.000Z</pubTime>
-        
-        <tag>expression</tag>
-         
-        <tag>reflow</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端兼容" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.grycheng.com/2016/01/22/%E9%80%9A%E8%BF%87%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E7%A0%81%E8%8E%B7%E5%8F%96%E4%BA%BA%E7%9A%84%E5%B9%B4%E9%BE%84%E5%92%8C%E6%80%A7%E5%88%AB/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -10583,6 +10561,28 @@
            
              
               <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.grycheng.com/2017/10/27/axios%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>axios使用详解</title>
+        <pubTime>2017-10-27T05:33:45.000Z</pubTime>
+        
+        <tag>axios使用方法</tag>
+         
+        <tag>axios使用详解</tag>
+         
+         
+           
+             
+              <breadCrumb title="ECMAScript6" url="http://www.grycheng.com/categories/ECMAScript6/"/>
           
         </display>
     </data>
@@ -10650,6 +10650,24 @@
 
     
   <url>
+    <loc>http://www.grycheng.com/2015/07/12/%E9%9B%85%E8%99%8E35%E6%9D%A1%E4%BC%98%E5%8C%96%E9%BB%84%E9%87%91%E5%AE%88%E5%88%99/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>雅虎35条优化黄金守则</title>
+        <pubTime>2015-07-12T13:43:38.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.grycheng.com/2015/07/12/js%E8%8E%B7%E5%8F%96url%E5%8F%82%E6%95%B0%E5%80%BC/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -10658,26 +10676,6 @@
         <pubTime>2015-07-12T10:49:22.000Z</pubTime>
         
         <tag>url参数值</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.grycheng.com/2015/07/17/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1-%E6%8B%96%E6%8B%BD/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>面向对象---拖拽</title>
-        <pubTime>2015-07-17T03:53:42.000Z</pubTime>
-        
-        <tag>js拖拽</tag>
          
          
            
@@ -10712,17 +10710,19 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/12/%E9%9B%85%E8%99%8E35%E6%9D%A1%E4%BC%98%E5%8C%96%E9%BB%84%E9%87%91%E5%AE%88%E5%88%99/</loc>
+    <loc>http://www.grycheng.com/2015/07/17/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1-%E6%8B%96%E6%8B%BD/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>雅虎35条优化黄金守则</title>
-        <pubTime>2015-07-12T13:43:38.000Z</pubTime>
+        <title>面向对象---拖拽</title>
+        <pubTime>2015-07-17T03:53:42.000Z</pubTime>
         
+        <tag>js拖拽</tag>
+         
          
            
              
-              <breadCrumb title="前端杂货" url="http://www.grycheng.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+              <breadCrumb title="JS/Jq" url="http://www.grycheng.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -10790,14 +10790,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/07/13/ie%E4%B8%8Bjavascript%E7%9A%84%E5%90%84%E7%A7%8D%E9%94%99%E8%AF%AF%E4%B8%8Ejs%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98/</loc>
+    <loc>http://www.grycheng.com/2015/09/10/js%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%B8%B8%E7%94%A8%E4%BA%8B%E4%BB%B6/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>IE下javascript的各种错误与js兼容问题</title>
-        <pubTime>2015-07-13T05:56:43.000Z</pubTime>
+        <title>js跨浏览器常用事件</title>
+        <pubTime>2015-09-10T02:38:13.000Z</pubTime>
         
-        <tag>js兼容</tag>
+        <tag>js跨浏览器事件</tag>
          
          
            
@@ -10810,14 +10810,14 @@
 
     
   <url>
-    <loc>http://www.grycheng.com/2015/09/10/js%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%B8%B8%E7%94%A8%E4%BA%8B%E4%BB%B6/</loc>
+    <loc>http://www.grycheng.com/2015/07/13/ie%E4%B8%8Bjavascript%E7%9A%84%E5%90%84%E7%A7%8D%E9%94%99%E8%AF%AF%E4%B8%8Ejs%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>js跨浏览器常用事件</title>
-        <pubTime>2015-09-10T02:38:13.000Z</pubTime>
+        <title>IE下javascript的各种错误与js兼容问题</title>
+        <pubTime>2015-07-13T05:56:43.000Z</pubTime>
         
-        <tag>js跨浏览器事件</tag>
+        <tag>js兼容</tag>
          
          
            
