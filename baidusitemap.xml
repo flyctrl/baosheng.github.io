@@ -4958,6 +4958,26 @@
 
     
   <url>
+    <loc>http://www.npm8.com/2015/07/12/sublime-text-2%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>Sublime Text 2快捷键大全</title>
+        <pubTime>2015-07-12T13:50:47.000Z</pubTime>
+        
+        <tag>Sublime</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.npm8.com/2015/07/12/js%E8%BF%87%E6%BB%A4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9B%B8%E5%90%8C%E7%9A%84%E5%80%BC/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -4998,46 +5018,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/08/05/js%E8%B7%B3%E8%BD%AC%E5%88%B0%E6%8C%87%E5%AE%9A%E9%A1%B5%E9%9D%A2%E4%BB%A3%E7%A0%81/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>js跳转到指定页面代码</title>
-        <pubTime>2015-08-05T03:39:41.000Z</pubTime>
-        
-        <tag>js跳转页面</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/18/ie%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E7%A8%8B%E5%BA%8F%E4%B8%8E%E5%85%B6%E4%BB%96%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B9%8B%E5%8C%BA%E5%88%AB/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>IE事件处理程序与其他浏览器之区别</title>
-        <pubTime>2015-07-18T09:26:03.000Z</pubTime>
-        
-        <tag>IE事件处理</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/07/12/media%E5%AF%B9%E5%90%84%E7%A7%8D%E8%AE%BE%E5%A4%87%E7%9A%84%E5%88%A4%E6%96%AD/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -5058,81 +5038,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/overflow-yauto%E5%B1%9E%E6%80%A7%E5%9C%A8ie6%E4%B8%8B%E6%97%A0%E6%95%88%E7%9A%84%E7%BB%88%E6%9E%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
+    <loc>http://www.npm8.com/2015/07/18/ie%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E7%A8%8B%E5%BA%8F%E4%B8%8E%E5%85%B6%E4%BB%96%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B9%8B%E5%8C%BA%E5%88%AB/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>overflow-y:auto;属性在IE6下无效的终极解决方案</title>
-        <pubTime>2015-07-13T06:04:07.000Z</pubTime>
+        <title>IE事件处理程序与其他浏览器之区别</title>
+        <pubTime>2015-07-18T09:26:03.000Z</pubTime>
         
-        <tag>overflow-y:auto</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/13/ie%E6%9D%A1%E4%BB%B6%E6%B3%A8%E9%87%8A%E5%8F%AF%E4%BB%A5%E6%80%8E%E4%B9%88%E7%8E%A9/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>IE条件注释可以怎么玩</title>
-        <pubTime>2015-07-13T05:40:54.000Z</pubTime>
-        
-        <tag>IE注释</tag>
+        <tag>IE事件处理</tag>
          
          
            
              
               <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/13/ie%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8B%E5%8E%BB%E6%8E%89%E9%93%BE%E6%8E%A5%E7%AD%89%E7%9A%84%E8%99%9A%E8%BE%B9%E6%A1%86/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>IE浏览器下去掉链接等的虚边框</title>
-        <pubTime>2015-07-13T07:51:58.000Z</pubTime>
-        
-        <tag>ie虚边框</tag>
-         
-        <tag>ie链接</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/09/21/phaser-%E5%AE%98%E6%96%B9%E7%A4%BA%E4%BE%8B%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86-text%E6%96%87%E6%9C%AC/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>Phaser官方示例教程整理—Text(文本)</title>
-        <pubTime>2015-09-21T10:59:36.000Z</pubTime>
-        
-        <tag>Phaser中的text</tag>
-         
-         
-           
-             
-              <breadCrumb title="Phaser" url="http://www.npm8.com/categories/Phaser/"/>
           
         </display>
     </data>
@@ -5164,6 +5082,66 @@
 
     
   <url>
+    <loc>http://www.npm8.com/2015/07/13/ie%E6%9D%A1%E4%BB%B6%E6%B3%A8%E9%87%8A%E5%8F%AF%E4%BB%A5%E6%80%8E%E4%B9%88%E7%8E%A9/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>IE条件注释可以怎么玩</title>
+        <pubTime>2015-07-13T05:40:54.000Z</pubTime>
+        
+        <tag>IE注释</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/13/overflow-yauto%E5%B1%9E%E6%80%A7%E5%9C%A8ie6%E4%B8%8B%E6%97%A0%E6%95%88%E7%9A%84%E7%BB%88%E6%9E%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>overflow-y:auto;属性在IE6下无效的终极解决方案</title>
+        <pubTime>2015-07-13T06:04:07.000Z</pubTime>
+        
+        <tag>overflow-y:auto</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/09/21/phaser-%E5%AE%98%E6%96%B9%E7%A4%BA%E4%BE%8B%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86-text%E6%96%87%E6%9C%AC/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>Phaser官方示例教程整理—Text(文本)</title>
+        <pubTime>2015-09-21T10:59:36.000Z</pubTime>
+        
+        <tag>Phaser中的text</tag>
+         
+         
+           
+             
+              <breadCrumb title="Phaser" url="http://www.npm8.com/categories/Phaser/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.npm8.com/2016/04/06/iframe%E5%86%85%E5%AD%98%E9%87%8A%E6%94%BE%E5%92%8C%E9%AB%98%E5%BA%A6%E8%87%AA%E9%80%82%E5%BA%94/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -5186,21 +5164,41 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2017/08/23/Git%E4%B8%80%E9%94%AE%E5%90%8C%E6%AD%A5%E5%88%B0%E5%A4%9A%E4%B8%AA%E4%B8%8D%E5%90%8C%E4%BB%A3%E7%A0%81%E5%BA%93/</loc>
+    <loc>http://www.npm8.com/2015/07/13/ie%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8B%E5%8E%BB%E6%8E%89%E9%93%BE%E6%8E%A5%E7%AD%89%E7%9A%84%E8%99%9A%E8%BE%B9%E6%A1%86/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Git一键同步到多个不同代码库</title>
-        <pubTime>2017-08-22T16:30:04.000Z</pubTime>
+        <title>IE浏览器下去掉链接等的虚边框</title>
+        <pubTime>2015-07-13T07:51:58.000Z</pubTime>
         
-        <tag>git</tag>
+        <tag>ie虚边框</tag>
          
-        <tag>git使用两个库</tag>
+        <tag>ie链接</tag>
          
          
            
              
               <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2016/07/08/17%E4%B8%AA%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%84css%E7%9F%A5%E8%AF%86%E7%82%B9/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>17个必须知道的css知识点</title>
+        <pubTime>2016-07-08T13:02:54.000Z</pubTime>
+        
+        <tag>css知识点</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
           
         </display>
     </data>
@@ -5216,6 +5214,46 @@
         <pubTime>2015-09-17T02:34:22.000Z</pubTime>
         
         <tag>phaser函数</tag>
+         
+         
+           
+             
+              <breadCrumb title="Phaser" url="http://www.npm8.com/categories/Phaser/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/09/21/phaser%E5%AE%98%E6%96%B9%E7%A4%BA%E4%BE%8B%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86-buttons%E6%8C%89%E9%92%AE/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>Phaser官方示例教程整理—Buttons(按钮)</title>
+        <pubTime>2015-09-21T09:03:09.000Z</pubTime>
+        
+        <tag>phaser中的buttons</tag>
+         
+         
+           
+             
+              <breadCrumb title="Phaser" url="http://www.npm8.com/categories/Phaser/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/09/21/phaser%E5%AE%98%E6%96%B9%E7%A4%BA%E4%BE%8B%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86-camera%EF%BC%88%E7%9B%B8%E6%9C%BA%EF%BC%89/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>Phaser官方示例教程整理—Camera（相机）</title>
+        <pubTime>2015-09-21T11:23:08.000Z</pubTime>
+        
+        <tag>phaser中的Camera(相机)</tag>
          
          
            
@@ -5252,26 +5290,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/09/21/phaser%E5%AE%98%E6%96%B9%E7%A4%BA%E4%BE%8B%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86-buttons%E6%8C%89%E9%92%AE/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>Phaser官方示例教程整理—Buttons(按钮)</title>
-        <pubTime>2015-09-21T09:03:09.000Z</pubTime>
-        
-        <tag>phaser中的buttons</tag>
-         
-         
-           
-             
-              <breadCrumb title="Phaser" url="http://www.npm8.com/categories/Phaser/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/08/19/phaser%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -5292,14 +5310,16 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/09/21/phaser%E5%AE%98%E6%96%B9%E7%A4%BA%E4%BE%8B%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86-camera%EF%BC%88%E7%9B%B8%E6%9C%BA%EF%BC%89/</loc>
+    <loc>http://www.npm8.com/2015/09/22/phaser%E9%87%8C%E9%80%9A%E8%BF%87json%E8%AF%BB%E5%8F%96%E6%95%B0%E6%8D%AE%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Phaser官方示例教程整理—Camera（相机）</title>
-        <pubTime>2015-09-21T11:23:08.000Z</pubTime>
+        <title>Phaser里通过json读取数据的两种方式</title>
+        <pubTime>2015-09-22T04:58:40.000Z</pubTime>
         
-        <tag>phaser中的Camera(相机)</tag>
+        <tag>phaser json</tag>
+         
+        <tag>phaser通过json读取数据</tag>
          
          
            
@@ -5352,43 +5372,23 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/12/bordernone%E4%B8%8Eborder0%E7%9A%84%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90%E6%AF%94%E8%BE%83/</loc>
+    <loc>http://www.npm8.com/2017/10/31/React%E4%B8%AD%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BD%BF%E7%94%A8%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>border:none与border:0的深入分析比较</title>
-        <pubTime>2015-07-12T13:39:34.000Z</pubTime>
+        <title>React中什么时候使用箭头函数</title>
+        <pubTime>2017-10-31T07:24:14.000Z</pubTime>
         
-        <tag>border:0</tag>
+        <tag>箭头函数</tag>
          
-        <tag>border:none</tag>
+        <tag>React</tag>
+         
+        <tag>React中什么时候使用箭头函数</tag>
          
          
            
              
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/09/22/phaser%E9%87%8C%E9%80%9A%E8%BF%87json%E8%AF%BB%E5%8F%96%E6%95%B0%E6%8D%AE%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>Phaser里通过json读取数据的两种方式</title>
-        <pubTime>2015-09-22T04:58:40.000Z</pubTime>
-        
-        <tag>phaser json</tag>
-         
-        <tag>phaser通过json读取数据</tag>
-         
-         
-           
-             
-              <breadCrumb title="Phaser" url="http://www.npm8.com/categories/Phaser/"/>
+              <breadCrumb title="Reactjs" url="http://www.npm8.com/categories/Reactjs/"/>
           
         </display>
     </data>
@@ -5438,26 +5438,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/11/position-fixed-%E7%9A%84%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%8C%E7%BE%8E%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E6%94%AF%E6%8C%81ie5%E3%80%816%E4%B8%94%E6%97%A0%E6%8A%96%E5%8A%A8/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>position: fixed 的跨浏览器完美解决方案(支持IE5、6且无抖动)</title>
-        <pubTime>2015-07-11T08:11:37.000Z</pubTime>
-        
-        <tag>position:fixed</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/07/12/ps%E4%BF%9D%E5%AD%98png8%E6%B6%88%E9%99%A4%E9%94%AF%E9%BD%BF%E7%9A%84%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -5478,52 +5458,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2017/10/31/HTML5%E7%9A%84input%E4%B8%8A%E4%BC%A0%E7%B1%BB%E5%9E%8B%E6%8E%A7%E5%88%B6/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>HTML5的input上传类型控制</title>
-        <pubTime>2017-10-31T07:00:00.000Z</pubTime>
-        
-        <tag>HTML5的input上传类型控制</tag>
-         
-        <tag>input[type=file]</tag>
-         
-        <tag>input上传</tag>
-         
-         
-           
-             
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2016/07/30/iscroll5%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3%E4%B8%AD%E6%96%87api%E6%95%B4%E7%90%86/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>IScroll5用法详解(中文API整理)</title>
-        <pubTime>2016-07-30T04:51:03.000Z</pubTime>
-        
-        <tag>IScroll5用法详解</tag>
-         
-        <tag>iscroll中文api</tag>
-         
-         
-           
-             
-              <breadCrumb title="插件库" url="http://www.npm8.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/07/25/select%E6%8E%A5%E6%94%B6%E5%90%8E%E5%8F%B0%E8%BF%94%E5%9B%9E%E5%80%BC%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -5537,6 +5471,48 @@
            
              
               <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/11/position-fixed-%E7%9A%84%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%8C%E7%BE%8E%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E6%94%AF%E6%8C%81ie5%E3%80%816%E4%B8%94%E6%97%A0%E6%8A%96%E5%8A%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>position: fixed 的跨浏览器完美解决方案(支持IE5、6且无抖动)</title>
+        <pubTime>2015-07-11T08:11:37.000Z</pubTime>
+        
+        <tag>position:fixed</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/12/bordernone%E4%B8%8Eborder0%E7%9A%84%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90%E6%AF%94%E8%BE%83/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>border:none与border:0的深入分析比较</title>
+        <pubTime>2015-07-12T13:39:34.000Z</pubTime>
+        
+        <tag>border:0</tag>
+         
+        <tag>border:none</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
           
         </display>
     </data>
@@ -5570,19 +5546,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/12/sublime-text-2%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</loc>
+    <loc>http://www.npm8.com/2015/08/08/css3%E7%A7%BB%E5%85%A5%E5%9B%BE%E7%89%87%E6%94%BE%E5%A4%A7%E6%95%88%E6%9E%9C/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Sublime Text 2快捷键大全</title>
-        <pubTime>2015-07-12T13:50:47.000Z</pubTime>
+        <title>CSS3移入图片放大效果</title>
+        <pubTime>2015-08-08T10:19:37.000Z</pubTime>
         
-        <tag>Sublime</tag>
+        <tag>CSS3移入图片放大</tag>
          
          
            
              
-              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
           
         </display>
     </data>
@@ -5590,19 +5566,43 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2016/07/08/17%E4%B8%AA%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%84css%E7%9F%A5%E8%AF%86%E7%82%B9/</loc>
+    <loc>http://www.npm8.com/2015/09/22/sublime%E6%8F%92%E4%BB%B6-phaser-completions/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>17个必须知道的css知识点</title>
-        <pubTime>2016-07-08T13:02:54.000Z</pubTime>
+        <title>Sublime插件—Phaser Completions</title>
+        <pubTime>2015-09-22T05:08:58.000Z</pubTime>
         
-        <tag>css知识点</tag>
+        <tag>Phaser Completions</tag>
+         
+        <tag>Sublime插件phaser</tag>
          
          
            
              
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+              <breadCrumb title="Phaser" url="http://www.npm8.com/categories/Phaser/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2016/07/30/iscroll5%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3%E4%B8%AD%E6%96%87api%E6%95%B4%E7%90%86/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>IScroll5用法详解(中文API整理)</title>
+        <pubTime>2016-07-30T04:51:03.000Z</pubTime>
+        
+        <tag>IScroll5用法详解</tag>
+         
+        <tag>iscroll中文api</tag>
+         
+         
+           
+             
+              <breadCrumb title="插件库" url="http://www.npm8.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
           
         </display>
     </data>
@@ -5676,19 +5676,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/08/08/css3%E7%A7%BB%E5%85%A5%E5%9B%BE%E7%89%87%E6%94%BE%E5%A4%A7%E6%95%88%E6%9E%9C/</loc>
+    <loc>http://www.npm8.com/2015/07/12/javascript-div-%E9%81%AE%E7%BD%A9%E5%B1%82%E5%B0%81%E9%94%81%E6%95%B4%E4%B8%AA%E9%A1%B5%E9%9D%A2/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>CSS3移入图片放大效果</title>
-        <pubTime>2015-08-08T10:19:37.000Z</pubTime>
+        <title>javascript div 遮罩层封锁整个页面</title>
+        <pubTime>2015-07-12T10:26:53.000Z</pubTime>
         
-        <tag>CSS3移入图片放大</tag>
+        <tag>js遮罩层</tag>
          
          
            
              
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -5740,26 +5740,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/12/web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>Web前端开发规范文档</title>
-        <pubTime>2015-07-12T13:15:53.000Z</pubTime>
-        
-        <tag>前端规范</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/07/13/web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E6%B5%8F%E8%A7%88%E5%99%A8%E5%85%BC%E5%AE%B9%E6%8E%A2%E7%B4%A2/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -5780,14 +5760,36 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/12/javascript-div-%E9%81%AE%E7%BD%A9%E5%B1%82%E5%B0%81%E9%94%81%E6%95%B4%E4%B8%AA%E9%A1%B5%E9%9D%A2/</loc>
+    <loc>http://www.npm8.com/2015/07/12/web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>javascript div 遮罩层封锁整个页面</title>
-        <pubTime>2015-07-12T10:26:53.000Z</pubTime>
+        <title>Web前端开发规范文档</title>
+        <pubTime>2015-07-12T13:15:53.000Z</pubTime>
         
-        <tag>js遮罩层</tag>
+        <tag>前端规范</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2016/10/08/javascript-%E5%B8%B8%E7%94%A8dom%E6%93%8D%E4%BD%9C%E6%95%B4%E7%90%86/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>javascript 常用DOM操作整理</title>
+        <pubTime>2016-10-08T02:57:52.000Z</pubTime>
+        
+        <tag>javascript常用DOM操作</tag>
+         
+        <tag>js常用DOM操作</tag>
          
          
            
@@ -5880,16 +5882,14 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2016/10/08/javascript-%E5%B8%B8%E7%94%A8dom%E6%93%8D%E4%BD%9C%E6%95%B4%E7%90%86/</loc>
+    <loc>http://www.npm8.com/2015/08/04/javascript-%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>javascript 常用DOM操作整理</title>
-        <pubTime>2016-10-08T02:57:52.000Z</pubTime>
+        <title>javascript 常用函数</title>
+        <pubTime>2015-08-04T14:45:50.000Z</pubTime>
         
-        <tag>javascript常用DOM操作</tag>
-         
-        <tag>js常用DOM操作</tag>
+        <tag>js常用函数</tag>
          
          
            
@@ -5913,6 +5913,28 @@
            
              
               <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2017/10/27/ES5%E5%92%8CES6%E5%BC%80%E5%8F%91%E4%B8%AD%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E7%AE%80%E5%86%99%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>ES5和ES6开发中需要知道的简写技巧</title>
+        <pubTime>2017-10-27T05:02:30.000Z</pubTime>
+        
+        <tag>ES5开发技巧</tag>
+         
+        <tag>ES6开发技巧</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -5960,26 +5982,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/08/04/javascript-%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>javascript 常用函数</title>
-        <pubTime>2015-08-04T14:45:50.000Z</pubTime>
-        
-        <tag>js常用函数</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/07/31/%E4%B8%BA%E7%BD%91%E7%AB%99%E6%8F%90%E9%80%9F-%E6%8E%A2%E7%A7%98html-5%E9%93%BE%E6%8E%A5%E9%A2%84%E5%8F%96%E5%8A%9F%E8%83%BD/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -6000,21 +6002,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2017/10/27/ES5%E5%92%8CES6%E5%BC%80%E5%8F%91%E4%B8%AD%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E7%AE%80%E5%86%99%E6%8A%80%E5%B7%A7/</loc>
+    <loc>http://www.npm8.com/2015/07/23/%E4%BB%BF%E4%BA%91%E7%9B%98%E6%8B%96%E6%8B%BD%E4%B8%8A%E4%BC%A0%E6%8F%92%E4%BB%B6%EF%BC%9Adragupload/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>ES5和ES6开发中需要知道的简写技巧</title>
-        <pubTime>2017-10-27T05:02:30.000Z</pubTime>
+        <title>仿云盘拖拽上传插件：DragUpload</title>
+        <pubTime>2015-07-23T07:20:59.000Z</pubTime>
         
-        <tag>ES5开发技巧</tag>
-         
-        <tag>ES6开发技巧</tag>
+        <tag>云盘拖拽上传</tag>
          
          
            
              
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+              <breadCrumb title="插件库" url="http://www.npm8.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
           
         </display>
     </data>
@@ -6022,16 +6022,38 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/09/05/css%E4%B8%ADzoom1%E7%9A%84%E4%BD%9C%E7%94%A8/</loc>
+    <loc>http://www.npm8.com/2015/09/18/css%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E5%AD%97%E4%BD%93%E5%8D%95%E4%BD%8D%EF%BC%9Apx%E3%80%81em%E3%80%81rem%E5%92%8C%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>CSS中zoom:1的作用</title>
-        <pubTime>2015-09-05T06:45:49.000Z</pubTime>
+        <title>CSS中常用的字体单位：px、em、rem和%的区别</title>
+        <pubTime>2015-09-18T01:18:05.000Z</pubTime>
         
-        <tag>css中zoom作用</tag>
+        <tag>em</tag>
          
-        <tag>zoom:1的作用</tag>
+        <tag>px</tag>
+         
+        <tag>rem和%的区别</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/13/css%E4%B8%AD%E7%9A%84%E7%BB%A7%E6%89%BF/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>css中的继承</title>
+        <pubTime>2015-07-13T08:32:30.000Z</pubTime>
+        
+        <tag>css继承</tag>
          
          
            
@@ -6084,19 +6106,39 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/23/%E4%BB%BF%E4%BA%91%E7%9B%98%E6%8B%96%E6%8B%BD%E4%B8%8A%E4%BC%A0%E6%8F%92%E4%BB%B6%EF%BC%9Adragupload/</loc>
+    <loc>http://www.npm8.com/2015/09/09/%E4%BD%BF%E7%94%A8-data-%E5%B1%9E%E6%80%A7%E6%9D%A5%E5%B5%8C%E5%85%A5%E8%87%AA%E5%AE%9A%E4%B9%89%E6%95%B0%E6%8D%AE/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>仿云盘拖拽上传插件：DragUpload</title>
-        <pubTime>2015-07-23T07:20:59.000Z</pubTime>
+        <title>使用 data-* 属性来嵌入自定义数据</title>
+        <pubTime>2015-09-09T13:26:59.000Z</pubTime>
         
-        <tag>云盘拖拽上传</tag>
+        <tag>data-* 自定义属性</tag>
          
          
            
              
-              <breadCrumb title="插件库" url="http://www.npm8.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
+              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/09/15/javascript%E4%B8%AD%E7%9A%84string%E6%8B%A5%E6%9C%89%E6%96%B9%E6%B3%95method%E7%9A%84%E5%8E%9F%E5%9B%A0/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>JavaScript中的string拥有方法(Method)的原因</title>
+        <pubTime>2015-09-15T08:58:32.000Z</pubTime>
+        
+        <tag>JavaScript中的string拥有方法(Method)的原因</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -6124,50 +6166,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/09/09/%E4%BD%BF%E7%94%A8-data-%E5%B1%9E%E6%80%A7%E6%9D%A5%E5%B5%8C%E5%85%A5%E8%87%AA%E5%AE%9A%E4%B9%89%E6%95%B0%E6%8D%AE/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>使用 data-* 属性来嵌入自定义数据</title>
-        <pubTime>2015-09-09T13:26:59.000Z</pubTime>
-        
-        <tag>data-* 自定义属性</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/09/18/css%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E5%AD%97%E4%BD%93%E5%8D%95%E4%BD%8D%EF%BC%9Apx%E3%80%81em%E3%80%81rem%E5%92%8C%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>CSS中常用的字体单位：px、em、rem和%的区别</title>
-        <pubTime>2015-09-18T01:18:05.000Z</pubTime>
-        
-        <tag>em</tag>
-         
-        <tag>px</tag>
-         
-        <tag>rem和%的区别</tag>
-         
-         
-           
-             
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/10/20/javascript%E4%B8%AD%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -6188,14 +6186,14 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/09/15/javascript%E4%B8%AD%E7%9A%84string%E6%8B%A5%E6%9C%89%E6%96%B9%E6%B3%95method%E7%9A%84%E5%8E%9F%E5%9B%A0/</loc>
+    <loc>http://www.npm8.com/2015/10/07/javascript%E5%88%A4%E6%96%AD%E6%89%8B%E6%9C%BA%E5%8F%B7%E8%BF%90%E8%90%A5%E5%95%86%E6%98%AF%E7%A7%BB%E5%8A%A8%E3%80%81%E8%81%94%E9%80%9A%E3%80%81%E7%94%B5%E4%BF%A1%E8%BF%98%E6%98%AF%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>JavaScript中的string拥有方法(Method)的原因</title>
-        <pubTime>2015-09-15T08:58:32.000Z</pubTime>
+        <title>JavaScript判断手机号运营商是移动、联通、电信还是其他</title>
+        <pubTime>2015-10-07T09:13:58.000Z</pubTime>
         
-        <tag>JavaScript中的string拥有方法(Method)的原因</tag>
+        <tag>js判断手机号运营商</tag>
          
          
            
@@ -6250,26 +6248,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/12/%E5%81%9Aseo%E9%99%A4%E4%BA%86%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E4%BD%A0%E8%BF%98%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E8%BF%99%E4%BA%9B%EF%BC%81/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>做SEO除了百度百科你还需要了解这些！</title>
-        <pubTime>2015-07-12T14:02:37.000Z</pubTime>
-        
-        <tag>seo百科</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/12/23/%E5%85%B3%E4%BA%8Ehtml5%E6%A0%87%E7%AD%BE%E4%B8%8D%E5%85%BC%E5%AE%B9ie68/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -6285,6 +6263,26 @@
            
              
               <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/12/%E5%81%9Aseo%E9%99%A4%E4%BA%86%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E4%BD%A0%E8%BF%98%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E8%BF%99%E4%BA%9B%EF%BC%81/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>做SEO除了百度百科你还需要了解这些！</title>
+        <pubTime>2015-07-12T14:02:37.000Z</pubTime>
+        
+        <tag>seo百科</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
           
         </display>
     </data>
@@ -6312,14 +6310,14 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/10/07/javascript%E5%88%A4%E6%96%AD%E6%89%8B%E6%9C%BA%E5%8F%B7%E8%BF%90%E8%90%A5%E5%95%86%E6%98%AF%E7%A7%BB%E5%8A%A8%E3%80%81%E8%81%94%E9%80%9A%E3%80%81%E7%94%B5%E4%BF%A1%E8%BF%98%E6%98%AF%E5%85%B6%E4%BB%96/</loc>
+    <loc>http://www.npm8.com/2015/07/24/javascript%E5%A6%82%E4%BD%95%E5%88%A0%E9%99%A4%E6%95%B0%E7%BB%84%E4%B8%AD%E6%8C%87%E5%AE%9A%E7%9A%84%E5%85%83%E7%B4%A0/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>JavaScript判断手机号运营商是移动、联通、电信还是其他</title>
-        <pubTime>2015-10-07T09:13:58.000Z</pubTime>
+        <title>javascript如何删除数组中指定的元素</title>
+        <pubTime>2015-07-24T10:27:59.000Z</pubTime>
         
-        <tag>js判断手机号运营商</tag>
+        <tag>js删除数组指定元素</tag>
          
          
            
@@ -6332,14 +6330,14 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/24/javascript%E5%A6%82%E4%BD%95%E5%88%A0%E9%99%A4%E6%95%B0%E7%BB%84%E4%B8%AD%E6%8C%87%E5%AE%9A%E7%9A%84%E5%85%83%E7%B4%A0/</loc>
+    <loc>http://www.npm8.com/2015/07/25/javascript%E5%A6%82%E4%BD%95%E5%B0%86%E6%96%87%E4%BB%B6%E4%BF%9D%E5%AD%98%E5%88%B0%E6%9C%AC%E5%9C%B0/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>javascript如何删除数组中指定的元素</title>
-        <pubTime>2015-07-24T10:27:59.000Z</pubTime>
+        <title>javascript如何将文件保存到本地</title>
+        <pubTime>2015-07-25T07:50:12.000Z</pubTime>
         
-        <tag>js删除数组指定元素</tag>
+        <tag>js将文件保存到本地</tag>
          
          
            
@@ -6392,14 +6390,18 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/25/javascript%E5%A6%82%E4%BD%95%E5%B0%86%E6%96%87%E4%BB%B6%E4%BF%9D%E5%AD%98%E5%88%B0%E6%9C%AC%E5%9C%B0/</loc>
+    <loc>http://www.npm8.com/2015/12/18/javascript%E5%AE%9E%E7%8E%B0%E4%BF%9D%E7%95%99%E4%B8%A4%E4%BD%8D%E5%B0%8F%E6%95%B0%E4%B8%80%E4%BD%8D%E8%87%AA%E5%8A%A8%E8%A1%A5%E9%9B%B6%E4%BB%A3%E7%A0%81/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>javascript如何将文件保存到本地</title>
-        <pubTime>2015-07-25T07:50:12.000Z</pubTime>
+        <title>javascript实现保留两位小数一位自动补零代码</title>
+        <pubTime>2015-12-18T01:41:07.000Z</pubTime>
         
-        <tag>js将文件保存到本地</tag>
+        <tag>js保留2位小数</tag>
+         
+        <tag>js保留两位小数自动补0</tag>
+         
+        <tag>js强制保留2位小数</tag>
          
          
            
@@ -6412,14 +6414,16 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/css%E4%B8%AD%E7%9A%84%E7%BB%A7%E6%89%BF/</loc>
+    <loc>http://www.npm8.com/2015/09/05/css%E4%B8%ADzoom1%E7%9A%84%E4%BD%9C%E7%94%A8/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>css中的继承</title>
-        <pubTime>2015-07-13T08:32:30.000Z</pubTime>
+        <title>CSS中zoom:1的作用</title>
+        <pubTime>2015-09-05T06:45:49.000Z</pubTime>
         
-        <tag>css继承</tag>
+        <tag>css中zoom作用</tag>
+         
+        <tag>zoom:1的作用</tag>
          
          
            
@@ -6516,30 +6520,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/12/18/javascript%E5%AE%9E%E7%8E%B0%E4%BF%9D%E7%95%99%E4%B8%A4%E4%BD%8D%E5%B0%8F%E6%95%B0%E4%B8%80%E4%BD%8D%E8%87%AA%E5%8A%A8%E8%A1%A5%E9%9B%B6%E4%BB%A3%E7%A0%81/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>javascript实现保留两位小数一位自动补零代码</title>
-        <pubTime>2015-12-18T01:41:07.000Z</pubTime>
-        
-        <tag>js保留2位小数</tag>
-         
-        <tag>js保留两位小数自动补0</tag>
-         
-        <tag>js强制保留2位小数</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/07/26/javascript%E5%AE%9E%E7%8E%B0%E5%8A%A8%E6%80%81%E5%AF%BC%E5%85%A5js%E4%B8%8Ecss%E7%AD%89%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6%E7%9A%84%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -6582,14 +6562,34 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/css%E4%B8%AD%E7%9A%84%E8%B4%9Fmargin%E6%8A%80%E6%9C%AF%E4%BB%A5%E5%8F%8A%E8%BF%90%E7%94%A8/</loc>
+    <loc>http://www.npm8.com/2015/07/13/css%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AD%97%E6%AF%8D%E5%92%8C%E6%B1%89%E5%AD%97%E8%A1%8C%E9%AB%98%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>css中的负margin技术以及运用</title>
-        <pubTime>2015-07-13T07:36:47.000Z</pubTime>
+        <title>css中英文字母和汉字行高不一样的解决办法</title>
+        <pubTime>2015-07-13T07:19:52.000Z</pubTime>
         
-        <tag>负margin</tag>
+        <tag>行高不一样</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/13/css%E5%88%A4%E6%96%AD%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>CSS判断浏览器</title>
+        <pubTime>2015-07-13T05:44:17.000Z</pubTime>
+        
+        <tag>css判断浏览器</tag>
          
          
            
@@ -6688,26 +6688,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/08/26/%E5%8A%A8%E6%80%81%E6%B7%BB%E5%8A%A0js%E6%96%87%E4%BB%B6%E5%88%B0%E9%A1%B5%E9%9D%A2%E4%B8%AD/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>动态添加JS文件到页面中</title>
-        <pubTime>2015-08-26T13:40:42.000Z</pubTime>
-        
-        <tag>动态添加JS文件</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/09/17/%E5%8C%BF%E5%90%8D%E5%87%BD%E6%95%B0%E6%A8%A1%E4%BB%BF%E5%9D%97%E7%BA%A7%E4%BD%9C%E7%94%A8%E5%9F%9F/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -6748,6 +6728,46 @@
 
     
   <url>
+    <loc>http://www.npm8.com/2015/08/26/%E5%8A%A8%E6%80%81%E6%B7%BB%E5%8A%A0js%E6%96%87%E4%BB%B6%E5%88%B0%E9%A1%B5%E9%9D%A2%E4%B8%AD/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>动态添加JS文件到页面中</title>
+        <pubTime>2015-08-26T13:40:42.000Z</pubTime>
+        
+        <tag>动态添加JS文件</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2016/01/14/css%E5%AE%9A%E4%B9%89input-disabled%E6%A0%B7%E5%BC%8F/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>CSS定义input disabled样式</title>
+        <pubTime>2016-01-13T16:14:19.000Z</pubTime>
+        
+        <tag>CSS定义input disabled样式</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.npm8.com/2016/09/14/%E5%8E%9F%E7%94%9Fjs%E9%A6%96%E9%A1%B5%E8%BF%9B%E5%BA%A6%E5%8A%A0%E8%BD%BD%E5%8A%A8%E7%94%BB/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -6763,26 +6783,6 @@
            
              
               <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/13/css%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AD%97%E6%AF%8D%E5%92%8C%E6%B1%89%E5%AD%97%E8%A1%8C%E9%AB%98%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>css中英文字母和汉字行高不一样的解决办法</title>
-        <pubTime>2015-07-13T07:19:52.000Z</pubTime>
-        
-        <tag>行高不一样</tag>
-         
-         
-           
-             
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
           
         </display>
     </data>
@@ -6836,58 +6836,14 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/12/%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E6%8B%BF%E6%9D%A5%E7%94%A8%E7%9A%8415%E4%B8%AAjquery%E4%BB%A3%E7%A0%81%E7%89%87%E6%AE%B5/</loc>
+    <loc>http://www.npm8.com/2015/07/31/javascript%E6%97%A5%E6%9C%9F%E6%A0%BC%E5%BC%8F%E5%8C%96/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>可以直接拿来用的15个jQuery代码片段</title>
-        <pubTime>2015-07-11T17:28:56.000Z</pubTime>
+        <title>Javascript日期格式化</title>
+        <pubTime>2015-07-31T12:31:45.000Z</pubTime>
         
-        <tag>jQuery代码</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2017/10/31/React%E4%B8%AD%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BD%BF%E7%94%A8%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>React中什么时候使用箭头函数</title>
-        <pubTime>2017-10-31T07:24:14.000Z</pubTime>
-        
-        <tag>箭头函数</tag>
-         
-        <tag>React</tag>
-         
-        <tag>React中什么时候使用箭头函数</tag>
-         
-         
-           
-             
-              <breadCrumb title="Reactjs" url="http://www.npm8.com/categories/Reactjs/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/26/javascript%E6%96%87%E4%BB%B6%E5%8A%A0%E8%BD%BD%E7%AE%A1%E7%90%86%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>javascript文件加载管理简单实现方法</title>
-        <pubTime>2015-07-26T07:34:02.000Z</pubTime>
-        
-        <tag>js文件加载管理</tag>
+        <tag>js日期格式化</tag>
          
          
            
@@ -6920,14 +6876,60 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/31/javascript%E6%97%A5%E6%9C%9F%E6%A0%BC%E5%BC%8F%E5%8C%96/</loc>
+    <loc>http://www.npm8.com/2016/03/21/javascript%E6%A8%A1%E5%9D%97%E5%8C%96%E5%BC%80%E5%8F%91%E8%AF%A6%E8%A7%A3/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Javascript日期格式化</title>
-        <pubTime>2015-07-31T12:31:45.000Z</pubTime>
+        <title>javascript模块化开发详解</title>
+        <pubTime>2016-03-21T03:47:54.000Z</pubTime>
         
-        <tag>js日期格式化</tag>
+        <tag>JavaScript模块化</tag>
+         
+        <tag>JavaScript模块化开发</tag>
+         
+        <tag>js模块化</tag>
+         
+        <tag>js模块化开发</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/12/%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E6%8B%BF%E6%9D%A5%E7%94%A8%E7%9A%8415%E4%B8%AAjquery%E4%BB%A3%E7%A0%81%E7%89%87%E6%AE%B5/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>可以直接拿来用的15个jQuery代码片段</title>
+        <pubTime>2015-07-11T17:28:56.000Z</pubTime>
+        
+        <tag>jQuery代码</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/26/javascript%E6%96%87%E4%BB%B6%E5%8A%A0%E8%BD%BD%E7%AE%A1%E7%90%86%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>javascript文件加载管理简单实现方法</title>
+        <pubTime>2015-07-26T07:34:02.000Z</pubTime>
+        
+        <tag>js文件加载管理</tag>
          
          
            
@@ -6962,52 +6964,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/08/26/%E5%9B%BD%E5%86%85ued%E6%94%B6%E5%BD%95%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>国内UED收录分享</title>
-        <pubTime>2015-08-26T13:26:55.000Z</pubTime>
-        
-        <tag>国内UED收录汇总</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2016/03/21/javascript%E6%A8%A1%E5%9D%97%E5%8C%96%E5%BC%80%E5%8F%91%E8%AF%A6%E8%A7%A3/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>javascript模块化开发详解</title>
-        <pubTime>2016-03-21T03:47:54.000Z</pubTime>
-        
-        <tag>JavaScript模块化</tag>
-         
-        <tag>JavaScript模块化开发</tag>
-         
-        <tag>js模块化</tag>
-         
-        <tag>js模块化开发</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/09/18/javascript%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E5%87%BD%E6%95%B0/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -7028,59 +6984,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/css%E5%88%A4%E6%96%AD%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
+    <loc>http://www.npm8.com/2015/08/26/%E5%9B%BD%E5%86%85ued%E6%94%B6%E5%BD%95%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>CSS判断浏览器</title>
-        <pubTime>2015-07-13T05:44:17.000Z</pubTime>
+        <title>国内UED收录分享</title>
+        <pubTime>2015-08-26T13:26:55.000Z</pubTime>
         
-        <tag>css判断浏览器</tag>
+        <tag>国内UED收录汇总</tag>
          
          
            
              
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/26/javascript%E8%8E%B7%E5%8F%96%E7%BD%91%E9%A1%B5%E5%AE%BD%E9%AB%98%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>javascript获取网页宽高方法汇总</title>
-        <pubTime>2015-07-26T08:14:15.000Z</pubTime>
-        
-        <tag>js获取网页宽高</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/13/css%E5%85%B3%E4%BA%8E%E7%BB%86%E8%8A%82%E7%9A%84%E5%A4%A7%E7%BE%8E%E9%9B%86/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>CSS关于细节的大美集</title>
-        <pubTime>2015-07-13T07:47:39.000Z</pubTime>
-        
-        <tag>css细节</tag>
-         
-         
-           
-             
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
           
         </display>
     </data>
@@ -7108,14 +7024,54 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2016/01/14/css%E5%AE%9A%E4%B9%89input-disabled%E6%A0%B7%E5%BC%8F/</loc>
+    <loc>http://www.npm8.com/2015/07/13/a-focus%E6%96%B9%E6%B3%95%E5%9C%A8google%E6%B5%8F%E8%A7%88%E5%99%A8%E6%97%A0%E6%95%88%E6%9E%9C/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>CSS定义input disabled样式</title>
-        <pubTime>2016-01-13T16:14:19.000Z</pubTime>
+        <title>$('#a').focus()方法在google浏览器无效果</title>
+        <pubTime>2015-07-13T06:02:26.000Z</pubTime>
         
-        <tag>CSS定义input disabled样式</tag>
+        <tag>focus</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/13/css%E4%B8%AD%E7%9A%84%E8%B4%9Fmargin%E6%8A%80%E6%9C%AF%E4%BB%A5%E5%8F%8A%E8%BF%90%E7%94%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>css中的负margin技术以及运用</title>
+        <pubTime>2015-07-13T07:36:47.000Z</pubTime>
+        
+        <tag>负margin</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/09/18/css%E5%AE%9E%E7%8E%B0%E4%B8%A4%E7%AB%AF%E5%AF%B9%E9%BD%90/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>CSS实现两端对齐</title>
+        <pubTime>2015-09-18T09:48:27.000Z</pubTime>
+        
+        <tag>css实现两端对齐</tag>
          
          
            
@@ -7150,17 +7106,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/12/css%E6%8E%A7%E5%88%B6div%E5%AE%BD%E5%BA%A6%E6%9C%80%E5%A4%A7%E5%AE%BD%E5%BA%A6%E9%AB%98%E5%BA%A6%E5%92%8C%E6%9C%80%E5%B0%8F%E5%AE%BD%E5%BA%A6%E9%AB%98%E5%BA%A6/</loc>
+    <loc>http://www.npm8.com/2015/07/26/javascript%E8%8E%B7%E5%8F%96%E7%BD%91%E9%A1%B5%E5%AE%BD%E9%AB%98%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>CSS控制div宽度最大宽度/高度和最小宽度/高度</title>
-        <pubTime>2015-07-12T13:38:21.000Z</pubTime>
+        <title>javascript获取网页宽高方法汇总</title>
+        <pubTime>2015-07-26T08:14:15.000Z</pubTime>
         
+        <tag>js获取网页宽高</tag>
+         
          
            
              
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -7176,70 +7134,6 @@
         <pubTime>2015-07-27T04:02:32.000Z</pubTime>
         
         <tag>ajax 全局变量赋值</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/09/18/css%E5%AE%9E%E7%8E%B0%E4%B8%A4%E7%AB%AF%E5%AF%B9%E9%BD%90/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>CSS实现两端对齐</title>
-        <pubTime>2015-09-18T09:48:27.000Z</pubTime>
-        
-        <tag>css实现两端对齐</tag>
-         
-         
-           
-             
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2016/04/07/cookie%E5%AD%98%E5%82%A8%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E9%98%B2%E8%8C%83%EF%BC%88%E9%98%B2%E6%AD%A2%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95%EF%BC%89/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>cookie存储用户信息安全防范（防止模拟登录）</title>
-        <pubTime>2016-04-07T01:50:01.000Z</pubTime>
-        
-        <tag>cookie存储用户信息安全防范</tag>
-         
-        <tag>cookie防止模拟登录</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2016/03/10/%E5%A4%8D%E5%88%B6%E7%BD%91%E9%A1%B5%E5%86%85%E5%AE%B9%E8%87%AA%E5%8A%A8%E6%B7%BB%E5%8A%A0%E7%89%88%E6%9D%83%E4%BF%A1%E6%81%AF%E7%9A%84%E6%96%B9%E6%B3%95%E5%85%BC%E5%AE%B9ie%E3%80%81firefox%E5%92%8Cc/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>复制网页内容自动添加版权信息的方法(兼容IE、Firefox和Chrome)</title>
-        <pubTime>2016-03-10T15:54:18.000Z</pubTime>
-        
-        <tag>Firefox和Chrome)</tag>
-         
-        <tag>复制网页内容自动添加版权信息的方法(兼容IE</tag>
          
          
            
@@ -7272,19 +7166,59 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/%E5%A4%9A%E8%A1%8C%E6%96%87%E6%9C%AC%E6%BA%A2%E5%87%BA%E6%98%BE%E7%A4%BA%E7%9C%81%E7%95%A5%E5%8F%B7-%E7%9A%84%E6%96%B9%E6%B3%95/</loc>
+    <loc>http://www.npm8.com/2015/07/13/css%E5%85%B3%E4%BA%8E%E7%BB%86%E8%8A%82%E7%9A%84%E5%A4%A7%E7%BE%8E%E9%9B%86/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>多行文本溢出显示省略号(...)的方法</title>
-        <pubTime>2015-07-13T05:33:04.000Z</pubTime>
+        <title>CSS关于细节的大美集</title>
+        <pubTime>2015-07-13T07:47:39.000Z</pubTime>
         
-        <tag>文字溢出</tag>
+        <tag>css细节</tag>
          
          
            
              
-              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/12/css%E6%8E%A7%E5%88%B6div%E5%AE%BD%E5%BA%A6%E6%9C%80%E5%A4%A7%E5%AE%BD%E5%BA%A6%E9%AB%98%E5%BA%A6%E5%92%8C%E6%9C%80%E5%B0%8F%E5%AE%BD%E5%BA%A6%E9%AB%98%E5%BA%A6/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>CSS控制div宽度最大宽度/高度和最小宽度/高度</title>
+        <pubTime>2015-07-12T13:38:21.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2016/03/10/%E5%A4%8D%E5%88%B6%E7%BD%91%E9%A1%B5%E5%86%85%E5%AE%B9%E8%87%AA%E5%8A%A8%E6%B7%BB%E5%8A%A0%E7%89%88%E6%9D%83%E4%BF%A1%E6%81%AF%E7%9A%84%E6%96%B9%E6%B3%95%E5%85%BC%E5%AE%B9ie%E3%80%81firefox%E5%92%8Cc/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>复制网页内容自动添加版权信息的方法(兼容IE、Firefox和Chrome)</title>
+        <pubTime>2016-03-10T15:54:18.000Z</pubTime>
+        
+        <tag>Firefox和Chrome)</tag>
+         
+        <tag>复制网页内容自动添加版权信息的方法(兼容IE</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -7336,6 +7270,26 @@
 
     
   <url>
+    <loc>http://www.npm8.com/2015/07/13/%E5%A4%9A%E8%A1%8C%E6%96%87%E6%9C%AC%E6%BA%A2%E5%87%BA%E6%98%BE%E7%A4%BA%E7%9C%81%E7%95%A5%E5%8F%B7-%E7%9A%84%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>多行文本溢出显示省略号(...)的方法</title>
+        <pubTime>2015-07-13T05:33:04.000Z</pubTime>
+        
+        <tag>文字溢出</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.npm8.com/2015/07/18/%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%ADjavascript%E5%AF%B9%E8%B1%A1%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -7349,6 +7303,48 @@
            
              
               <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/10/28/jquery1-9%E4%B8%AD%E5%88%A0%E9%99%A4%E4%BA%86live%E4%BB%A5%E5%90%8E%E7%9A%84%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>jQuery1.9+中删除了live以后的替代方法</title>
+        <pubTime>2015-10-28T03:52:17.000Z</pubTime>
+        
+        <tag>jQuery删除了live以后的替代方法</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2017/10/09/Git%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E8%A1%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>Git常用命令速查表</title>
+        <pubTime>2017-10-09T01:24:33.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+        <tag>Git常用命令</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
           
         </display>
     </data>
@@ -7396,14 +7392,20 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/10/28/jquery1-9%E4%B8%AD%E5%88%A0%E9%99%A4%E4%BA%86live%E4%BB%A5%E5%90%8E%E7%9A%84%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%B3%95/</loc>
+    <loc>http://www.npm8.com/2015/07/13/jquery%E4%B8%ADappend%E5%92%8Cappendto%E7%9A%84%EF%BC%8C%E5%8F%8Ajs%E4%B8%AD%E7%9A%84appendchild%E3%80%81insertbefore-%E8%AE%B2%E8%A7%A3/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>jQuery1.9+中删除了live以后的替代方法</title>
-        <pubTime>2015-10-28T03:52:17.000Z</pubTime>
+        <title>JQuery中append和appendTo的，及js中的appendChild、insertBefore 讲解</title>
+        <pubTime>2015-07-13T07:09:34.000Z</pubTime>
         
-        <tag>jQuery删除了live以后的替代方法</tag>
+        <tag>appendChild</tag>
+         
+        <tag>append</tag>
+         
+        <tag>appendTo</tag>
+         
+        <tag>insertBefore</tag>
          
          
            
@@ -7475,23 +7477,40 @@
     </url>
 
     
-    
   <url>
-    <loc>http://www.npm8.com/2015/10/09/cookie%E6%8F%92%E4%BB%B6jquery-cookie-js/</loc>
+    <loc>http://www.npm8.com/2015/08/05/jquery%E4%B8%ADattr%E5%92%8Cprop%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Cookie插件jquery.cookie.js</title>
-        <pubTime>2015-10-09T09:12:33.000Z</pubTime>
+        <title>jquery中attr和prop的区别</title>
+        <pubTime>2015-08-05T07:26:52.000Z</pubTime>
         
-        <tag>Cookie插件</tag>
-         
-        <tag>jquery.cookie.js</tag>
+        <tag>attr和prop的区别</tag>
          
          
            
              
-              <breadCrumb title="插件库" url="http://www.npm8.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/13/css%E7%BA%AF%E8%8B%B1%E6%96%87%E6%95%B0%E5%AD%97%E8%87%AA%E5%8A%A8%E6%8D%A2%E8%A1%8C/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>CSS纯英文数字自动换行</title>
+        <pubTime>2015-07-13T07:19:05.000Z</pubTime>
+        
+        <tag>自动换行</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
           
         </display>
     </data>
@@ -7519,20 +7538,34 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/jquery%E4%B8%ADappend%E5%92%8Cappendto%E7%9A%84%EF%BC%8C%E5%8F%8Ajs%E4%B8%AD%E7%9A%84appendchild%E3%80%81insertbefore-%E8%AE%B2%E8%A7%A3/</loc>
+    <loc>http://www.npm8.com/2015/08/26/%E5%A6%82%E4%BD%95%E7%94%A8%E5%8E%9F%E7%94%9F%E6%80%81%E7%9A%84js%E5%AE%9E%E7%8E%B0%E7%B1%BB%E4%BC%BCjquery%E7%9A%84id%EF%BC%8C-selector%E7%AD%89%E5%8A%9F%E8%83%BD/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>JQuery中append和appendTo的，及js中的appendChild、insertBefore 讲解</title>
-        <pubTime>2015-07-13T07:09:34.000Z</pubTime>
+        <title>用原生态的JS实现类似JQuery的$(</title>
+        <pubTime>2015-08-26T13:49:11.000Z</pubTime>
         
-        <tag>appendChild</tag>
+        <tag>JS 实现jq选择器</tag>
          
-        <tag>append</tag>
          
-        <tag>appendTo</tag>
-         
-        <tag>insertBefore</tag>
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/16/jquery%E4%B8%AD%E5%85%B3%E4%BA%8Eon%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>jQuery中关于on的使用</title>
+        <pubTime>2015-07-16T02:50:49.000Z</pubTime>
+        
+        <tag>on的使用</tag>
          
          
            
@@ -7562,26 +7595,6 @@
            
              
               <breadCrumb title="Reactjs" url="http://www.npm8.com/categories/Reactjs/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/08/26/%E5%A6%82%E4%BD%95%E7%94%A8%E5%8E%9F%E7%94%9F%E6%80%81%E7%9A%84js%E5%AE%9E%E7%8E%B0%E7%B1%BB%E4%BC%BCjquery%E7%9A%84id%EF%BC%8C-selector%E7%AD%89%E5%8A%9F%E8%83%BD/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>用原生态的JS实现类似JQuery的$(</title>
-        <pubTime>2015-08-26T13:49:11.000Z</pubTime>
-        
-        <tag>JS 实现jq选择器</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -7629,26 +7642,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/08/05/jquery%E4%B8%ADattr%E5%92%8Cprop%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>jquery中attr和prop的区别</title>
-        <pubTime>2015-08-05T07:26:52.000Z</pubTime>
-        
-        <tag>attr和prop的区别</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/07/13/%E5%A6%82%E4%BD%95%E8%AE%A9iframe%E8%87%AA%E9%80%82%E5%BA%94%E9%AB%98%E5%BA%A6-iframe%E5%8E%BB%E6%8E%89%E6%BB%9A%E5%8A%A8%E6%9D%A1/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -7666,6 +7659,28 @@
            
              
               <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2016/04/07/cookie%E5%AD%98%E5%82%A8%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E9%98%B2%E8%8C%83%EF%BC%88%E9%98%B2%E6%AD%A2%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95%EF%BC%89/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>cookie存储用户信息安全防范（防止模拟登录）</title>
+        <pubTime>2016-04-07T01:50:01.000Z</pubTime>
+        
+        <tag>cookie存储用户信息安全防范</tag>
+         
+        <tag>cookie防止模拟登录</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -7753,26 +7768,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/16/jquery%E4%B8%AD%E5%85%B3%E4%BA%8Eon%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>jQuery中关于on的使用</title>
-        <pubTime>2015-07-16T02:50:49.000Z</pubTime>
-        
-        <tag>on的使用</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/10/07/jquery%E4%B8%AD%E7%9A%84ajax-async%E5%90%8C%E6%AD%A5%E5%92%8C%E5%BC%82%E6%AD%A5%E8%AF%A6%E8%A7%A3/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -7835,39 +7830,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/css%E7%BA%AF%E8%8B%B1%E6%96%87%E6%95%B0%E5%AD%97%E8%87%AA%E5%8A%A8%E6%8D%A2%E8%A1%8C/</loc>
+    <loc>http://www.npm8.com/2015/07/13/display%E5%85%BC%E5%AE%B9%E5%B0%8F%E7%BB%93/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>CSS纯英文数字自动换行</title>
-        <pubTime>2015-07-13T07:19:05.000Z</pubTime>
+        <title>display兼容小结</title>
+        <pubTime>2015-07-13T05:30:58.000Z</pubTime>
         
-        <tag>自动换行</tag>
+        <tag>display兼容</tag>
          
          
            
              
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/12/css-%E5%9B%BE%E5%83%8F%E9%80%8F%E6%98%8E%E5%BA%A6/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>CSS 图像透明度</title>
-        <pubTime>2015-07-12T13:23:38.000Z</pubTime>
-        
-        <tag>图像透明</tag>
-         
-         
-           
-             
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
           
         </display>
     </data>
@@ -7895,19 +7870,43 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/display%E5%85%BC%E5%AE%B9%E5%B0%8F%E7%BB%93/</loc>
+    <loc>http://www.npm8.com/2015/10/09/cookie%E6%8F%92%E4%BB%B6jquery-cookie-js/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>display兼容小结</title>
-        <pubTime>2015-07-13T05:30:58.000Z</pubTime>
+        <title>Cookie插件jquery.cookie.js</title>
+        <pubTime>2015-10-09T09:12:33.000Z</pubTime>
         
-        <tag>display兼容</tag>
+        <tag>Cookie插件</tag>
+         
+        <tag>jquery.cookie.js</tag>
          
          
            
              
-              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+              <breadCrumb title="插件库" url="http://www.npm8.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/13/css-sprite-%E5%8F%8A%E5%9B%BE%E7%89%87%E4%BC%98%E5%8C%96%E9%82%A3%E4%BA%9B%E4%BA%8B/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>CSS sprite 及图片优化那些事</title>
+        <pubTime>2015-07-13T07:18:35.000Z</pubTime>
+        
+        <tag>CssSprite</tag>
+         
+        <tag>图片优化</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
           
         </display>
     </data>
@@ -7928,6 +7927,28 @@
            
              
               <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/12/18/eval%E5%87%BD%E6%95%B0%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>eval()函数用法详解</title>
+        <pubTime>2015-12-18T02:19:41.000Z</pubTime>
+        
+        <tag>eval()函数</tag>
+         
+        <tag>eval()函数用法</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -8035,20 +8056,14 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2016/03/11/dot-js%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</loc>
+    <loc>http://www.npm8.com/2015/07/12/expires%E7%94%A8%E4%BA%8E%E7%BD%91%E9%A1%B5%E7%BC%93%E5%AD%98%E8%BF%87%E6%9C%9F%E6%97%B6%E9%97%B4/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>DOT.JS使用详解</title>
-        <pubTime>2016-03-11T15:41:04.000Z</pubTime>
+        <title>expires用于网页缓存过期时间</title>
+        <pubTime>2015-07-12T13:36:31.000Z</pubTime>
         
-        <tag>DOT.JS</tag>
-         
-        <tag>DOT.JS使用介绍</tag>
-         
-        <tag>DOT.JS使用详解</tag>
-         
-        <tag>DOT.JS使用说明</tag>
+        <tag>expires</tag>
          
          
            
@@ -8091,28 +8106,6 @@
         <tag>手机号码验证</tag>
          
         <tag>电话号码验证</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/12/18/eval%E5%87%BD%E6%95%B0%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>eval()函数用法详解</title>
-        <pubTime>2015-12-18T02:19:41.000Z</pubTime>
-        
-        <tag>eval()函数</tag>
-         
-        <tag>eval()函数用法</tag>
          
          
            
@@ -8169,39 +8162,25 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/12/expires%E7%94%A8%E4%BA%8E%E7%BD%91%E9%A1%B5%E7%BC%93%E5%AD%98%E8%BF%87%E6%9C%9F%E6%97%B6%E9%97%B4/</loc>
+    <loc>http://www.npm8.com/2016/03/11/dot-js%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>expires用于网页缓存过期时间</title>
-        <pubTime>2015-07-12T13:36:31.000Z</pubTime>
+        <title>DOT.JS使用详解</title>
+        <pubTime>2016-03-11T15:41:04.000Z</pubTime>
         
-        <tag>expires</tag>
+        <tag>DOT.JS</tag>
+         
+        <tag>DOT.JS使用介绍</tag>
+         
+        <tag>DOT.JS使用详解</tag>
+         
+        <tag>DOT.JS使用说明</tag>
          
          
            
              
               <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/25/extend%E5%92%8C-fn-extend%E5%8C%BA%E5%88%AB/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>$.extend()和$.fn.extend()区别</title>
-        <pubTime>2015-07-25T08:28:00.000Z</pubTime>
-        
-        <tag>$.extend()和$.fn.extend()区别</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -8233,120 +8212,14 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2016/01/29/%E6%8F%90%E9%AB%98css%E6%96%87%E4%BB%B6%E5%8F%AF%E7%BB%B4%E6%8A%A4%E6%80%A7%E7%9A%84%E4%BA%94%E7%A7%8D%E6%96%B9%E6%B3%95/</loc>
+    <loc>http://www.npm8.com/2015/07/25/extend%E5%92%8C-fn-extend%E5%8C%BA%E5%88%AB/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>提高CSS文件可维护性的五种方法</title>
-        <pubTime>2016-01-29T07:25:30.000Z</pubTime>
+        <title>$.extend()和$.fn.extend()区别</title>
+        <pubTime>2015-07-25T08:28:00.000Z</pubTime>
         
-        <tag>提高CSS文件可维护性</tag>
-         
-         
-           
-             
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/08/05/%E6%95%99%E4%BD%A0%E5%88%9B%E5%BB%BA%E6%9B%B4%E5%A5%BD%E7%9A%84jquery%E6%8F%92%E4%BB%B6/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>教你创建更好的jQuery插件</title>
-        <pubTime>2015-08-05T09:15:47.000Z</pubTime>
-        
-        <tag>jQuery插件</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/08/03/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%E6%96%B9%E6%B3%95%E5%B0%8F%E7%BB%93/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>数组去重方法小结</title>
-        <pubTime>2015-08-03T10:09:27.000Z</pubTime>
-        
-        <tag>数组去重</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/17/%E6%96%87%E6%9C%AC%E6%A1%86%E7%A6%81%E6%AD%A2%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E6%93%8D%E4%BD%9C/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>文本框禁止复制粘贴操作</title>
-        <pubTime>2015-07-17T04:16:32.000Z</pubTime>
-        
-        <tag>文本框禁止复制粘贴</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/13/css-sprite-%E5%8F%8A%E5%9B%BE%E7%89%87%E4%BC%98%E5%8C%96%E9%82%A3%E4%BA%9B%E4%BA%8B/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>CSS sprite 及图片优化那些事</title>
-        <pubTime>2015-07-13T07:18:35.000Z</pubTime>
-        
-        <tag>CssSprite</tag>
-         
-        <tag>图片优化</tag>
-         
-         
-           
-             
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/31/jquery%E5%AF%B9%E8%B1%A1%E4%B8%8E%EF%BC%88js%EF%BC%89dom%E5%AF%B9%E8%B1%A1%E7%9B%B8%E4%BA%92%E8%BD%AC%E6%8D%A2/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>jQuery对象与（js）dom对象相互转换</title>
-        <pubTime>2015-07-31T08:14:35.000Z</pubTime>
-        
-        <tag>jq转dom对象</tag>
-         
-        <tag>jq转js</tag>
-         
-        <tag>js转jq</tag>
+        <tag>$.extend()和$.fn.extend()区别</tag>
          
          
            
@@ -8385,6 +8258,86 @@
 
     
   <url>
+    <loc>http://www.npm8.com/2015/08/03/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%E6%96%B9%E6%B3%95%E5%B0%8F%E7%BB%93/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>数组去重方法小结</title>
+        <pubTime>2015-08-03T10:09:27.000Z</pubTime>
+        
+        <tag>数组去重</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2016/01/29/%E6%8F%90%E9%AB%98css%E6%96%87%E4%BB%B6%E5%8F%AF%E7%BB%B4%E6%8A%A4%E6%80%A7%E7%9A%84%E4%BA%94%E7%A7%8D%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>提高CSS文件可维护性的五种方法</title>
+        <pubTime>2016-01-29T07:25:30.000Z</pubTime>
+        
+        <tag>提高CSS文件可维护性</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/17/%E6%96%87%E6%9C%AC%E6%A1%86%E7%A6%81%E6%AD%A2%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E6%93%8D%E4%BD%9C/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>文本框禁止复制粘贴操作</title>
+        <pubTime>2015-07-17T04:16:32.000Z</pubTime>
+        
+        <tag>文本框禁止复制粘贴</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/08/05/%E6%95%99%E4%BD%A0%E5%88%9B%E5%BB%BA%E6%9B%B4%E5%A5%BD%E7%9A%84jquery%E6%8F%92%E4%BB%B6/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>教你创建更好的jQuery插件</title>
+        <pubTime>2015-08-05T09:15:47.000Z</pubTime>
+        
+        <tag>jQuery插件</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.npm8.com/2015/09/16/frameset%EF%BC%8Ciframe%E6%A1%86%E6%9E%B6%E4%B9%8B%E9%97%B4%E5%A6%82%E4%BD%95%E4%BA%92%E7%9B%B8%E8%B0%83%E7%94%A8%E5%8F%98%E9%87%8F%E3%80%81%E5%87%BD%E6%95%B0/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -8409,19 +8362,51 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/09/22/%E6%9C%89%E7%94%A8%E7%9A%84javascript%E5%A4%96%E9%83%A8%E6%96%87%E4%BB%B6%E6%88%96%E5%85%B6%E4%BB%96%E5%A4%96%E9%83%A8%E6%96%87%E4%BB%B6%E5%BC%95%E7%94%A8/</loc>
+    <loc>http://www.npm8.com/2015/07/31/jquery%E5%AF%B9%E8%B1%A1%E4%B8%8E%EF%BC%88js%EF%BC%89dom%E5%AF%B9%E8%B1%A1%E7%9B%B8%E4%BA%92%E8%BD%AC%E6%8D%A2/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>有用的javascript外部文件或其他外部文件引用</title>
-        <pubTime>2015-09-22T15:26:45.000Z</pubTime>
+        <title>jQuery对象与（js）dom对象相互转换</title>
+        <pubTime>2015-07-31T08:14:35.000Z</pubTime>
         
-        <tag>javascript外部文件的引用</tag>
+        <tag>jq转dom对象</tag>
+         
+        <tag>jq转js</tag>
+         
+        <tag>js转jq</tag>
          
          
            
              
               <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/12/22/html-meta%E4%B8%AD%E6%B7%BB%E5%8A%A0x-ua-compatible%E5%92%8Cieedgechrome1%E7%9A%84%E4%BD%9C%E7%94%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>HTML Meta中添加X-UA-Compatible和IE=Edge,chrome=1的作用</title>
+        <pubTime>2015-12-22T15:28:02.000Z</pubTime>
+        
+        <tag>chrome=1</tag>
+         
+        <tag>chrome=1作用</tag>
+         
+        <tag>IE=Edge</tag>
+         
+        <tag>Meta中添加X-UA-Compatible和IE=Edge</tag>
+         
+        <tag>X-UA-Compatible</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
           
         </display>
     </data>
@@ -8455,6 +8440,26 @@
 
     
   <url>
+    <loc>http://www.npm8.com/2015/09/22/%E6%9C%89%E7%94%A8%E7%9A%84javascript%E5%A4%96%E9%83%A8%E6%96%87%E4%BB%B6%E6%88%96%E5%85%B6%E4%BB%96%E5%A4%96%E9%83%A8%E6%96%87%E4%BB%B6%E5%BC%95%E7%94%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>有用的javascript外部文件或其他外部文件引用</title>
+        <pubTime>2015-09-22T15:26:45.000Z</pubTime>
+        
+        <tag>javascript外部文件的引用</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.npm8.com/2015/07/12/%E6%9C%AA%E7%9F%A5%E9%AB%98%E5%BA%A6%E7%9A%84%E5%9B%BE%E7%89%87%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -8475,19 +8480,39 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/08/29/h5%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B9%8Bphaser%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89/</loc>
+    <loc>http://www.npm8.com/2015/07/12/css-%E5%9B%BE%E5%83%8F%E9%80%8F%E6%98%8E%E5%BA%A6/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>H5游戏开发之phaser学习笔记（二）</title>
-        <pubTime>2015-08-28T17:20:25.000Z</pubTime>
+        <title>CSS 图像透明度</title>
+        <pubTime>2015-07-12T13:23:38.000Z</pubTime>
         
-        <tag>phaser笔记</tag>
+        <tag>图像透明</tag>
          
          
            
              
-              <breadCrumb title="Phaser" url="http://www.npm8.com/categories/Phaser/"/>
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/25/jquery%E6%8C%89%E7%85%A7%E6%AF%94%E4%BE%8B%E8%87%AA%E5%8A%A8%E8%B0%83%E6%95%B4%E7%BD%91%E7%AB%99%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>jQuery按照比例自动调整网站图片大小</title>
+        <pubTime>2015-07-25T12:52:00.000Z</pubTime>
+        
+        <tag>js按比例自动调整图片</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -8527,26 +8552,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/25/jquery%E6%8C%89%E7%85%A7%E6%AF%94%E4%BE%8B%E8%87%AA%E5%8A%A8%E8%B0%83%E6%95%B4%E7%BD%91%E7%AB%99%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>jQuery按照比例自动调整网站图片大小</title>
-        <pubTime>2015-07-25T12:52:00.000Z</pubTime>
-        
-        <tag>js按比例自动调整图片</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/07/25/jquery%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80%E4%BB%A3%E7%A0%81%E8%AE%B2%E8%A7%A3/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -8567,22 +8572,14 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/12/22/html-meta%E4%B8%AD%E6%B7%BB%E5%8A%A0x-ua-compatible%E5%92%8Cieedgechrome1%E7%9A%84%E4%BD%9C%E7%94%A8/</loc>
+    <loc>http://www.npm8.com/2015/07/18/%E6%B5%85%E8%B0%88html5%E9%A2%84%E5%8A%A0%E8%BD%BD%E5%8A%9F%E8%83%BD/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>HTML Meta中添加X-UA-Compatible和IE=Edge,chrome=1的作用</title>
-        <pubTime>2015-12-22T15:28:02.000Z</pubTime>
+        <title>浅谈HTML5预加载功能</title>
+        <pubTime>2015-07-18T09:33:04.000Z</pubTime>
         
-        <tag>chrome=1</tag>
-         
-        <tag>chrome=1作用</tag>
-         
-        <tag>IE=Edge</tag>
-         
-        <tag>Meta中添加X-UA-Compatible和IE=Edge</tag>
-         
-        <tag>X-UA-Compatible</tag>
+        <tag>HTML5预加载</tag>
          
          
            
@@ -8595,14 +8592,34 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/18/%E6%B5%85%E8%B0%88html5%E9%A2%84%E5%8A%A0%E8%BD%BD%E5%8A%9F%E8%83%BD/</loc>
+    <loc>http://www.npm8.com/2015/08/29/h5%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B9%8Bphaser%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>浅谈HTML5预加载功能</title>
-        <pubTime>2015-07-18T09:33:04.000Z</pubTime>
+        <title>H5游戏开发之phaser学习笔记（二）</title>
+        <pubTime>2015-08-28T17:20:25.000Z</pubTime>
         
-        <tag>HTML5预加载</tag>
+        <tag>phaser笔记</tag>
+         
+         
+           
+             
+              <breadCrumb title="Phaser" url="http://www.npm8.com/categories/Phaser/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/24/css3-box%E7%9B%92%E5%AD%90%E6%A8%A1%E5%9E%8B%E4%BB%A5%E5%8F%8Abox-flex%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>css3 box盒子模型以及box-flex的使用</title>
+        <pubTime>2015-07-24T10:23:24.000Z</pubTime>
+        
+        <tag>box-flex</tag>
          
          
            
@@ -8648,26 +8665,6 @@
            
              
               <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/13/a-focus%E6%96%B9%E6%B3%95%E5%9C%A8google%E6%B5%8F%E8%A7%88%E5%99%A8%E6%97%A0%E6%95%88%E6%9E%9C/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>$('#a').focus()方法在google浏览器无效果</title>
-        <pubTime>2015-07-13T06:02:26.000Z</pubTime>
-        
-        <tag>focus</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
           
         </display>
     </data>
@@ -8761,19 +8758,43 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/24/css3-box%E7%9B%92%E5%AD%90%E6%A8%A1%E5%9E%8B%E4%BB%A5%E5%8F%8Abox-flex%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
+    <loc>http://www.npm8.com/2017/10/27/Ant%20Design%E4%B8%AD%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6%E9%AA%8C%E8%AF%81/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>css3 box盒子模型以及box-flex的使用</title>
-        <pubTime>2015-07-24T10:23:24.000Z</pubTime>
+        <title>Ant Design中实现自定义组件验证</title>
+        <pubTime>2017-10-27T07:25:23.000Z</pubTime>
         
-        <tag>box-flex</tag>
+        <tag>Ant Design</tag>
+         
+        <tag>Ant Design自定义组件验证</tag>
          
          
            
              
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+              <breadCrumb title="Reactjs" url="http://www.npm8.com/categories/Reactjs/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2017/08/23/Git%E4%B8%80%E9%94%AE%E5%90%8C%E6%AD%A5%E5%88%B0%E5%A4%9A%E4%B8%AA%E4%B8%8D%E5%90%8C%E4%BB%A3%E7%A0%81%E5%BA%93/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>Git一键同步到多个不同代码库</title>
+        <pubTime>2017-08-22T16:30:04.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+        <tag>git使用两个库</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
           
         </display>
     </data>
@@ -8803,26 +8824,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/jquery%E7%9A%84%E4%B8%80%E4%BA%9B%E6%8A%80%E5%B7%A7%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>jquery的一些技巧总结</title>
-        <pubTime>2015-07-13T06:59:07.000Z</pubTime>
-        
-        <tag>js技巧</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/07/12/%E7%80%91%E5%B8%83%E6%B5%81%E5%B8%83%E5%B1%80%E5%AE%9E%E4%BE%8B/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -8843,43 +8844,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2017/10/09/Git%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E8%A1%A8/</loc>
+    <loc>http://www.npm8.com/2015/07/13/jquery%E7%9A%84%E4%B8%80%E4%BA%9B%E6%8A%80%E5%B7%A7%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Git常用命令速查表</title>
-        <pubTime>2017-10-09T01:24:33.000Z</pubTime>
+        <title>jquery的一些技巧总结</title>
+        <pubTime>2015-07-13T06:59:07.000Z</pubTime>
         
-        <tag>Git</tag>
-         
-        <tag>Git常用命令</tag>
+        <tag>js技巧</tag>
          
          
            
              
-              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2017/10/27/axios%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>axios使用详解</title>
-        <pubTime>2017-10-27T05:33:45.000Z</pubTime>
-        
-        <tag>axios使用方法</tag>
-         
-        <tag>axios使用详解</tag>
-         
-         
-           
-             
-              <breadCrumb title="ECMAScript6" url="http://www.npm8.com/categories/ECMAScript6/"/>
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -8907,23 +8884,21 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/09/08/html5%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7%E5%8F%8A%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB%E6%80%BB%E7%BB%93/</loc>
+    <loc>http://www.npm8.com/2015/07/12/ajax%E3%80%81json%E4%B8%8Ejsonp%E8%AF%A6%E8%A7%A3%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AFjson%E3%80%81jsonp%EF%BC%8C%E5%92%8Cajax%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>HTML5的新特性及技巧分享总结</title>
-        <pubTime>2015-09-08T04:46:13.000Z</pubTime>
+        <title>ajax、json与jsonp详解：什么是json、jsonp，和ajax的区别</title>
+        <pubTime>2015-07-12T13:05:58.000Z</pubTime>
         
-        <tag>html5</tag>
+        <tag>json</tag>
          
-        <tag>html5新特效</tag>
-         
-        <tag>html新特性</tag>
+        <tag>jsonp</tag>
          
          
            
              
-              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -8944,6 +8919,30 @@
            
              
               <breadCrumb title="插件库" url="http://www.npm8.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/09/08/html5%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7%E5%8F%8A%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>HTML5的新特性及技巧分享总结</title>
+        <pubTime>2015-09-08T04:46:13.000Z</pubTime>
+        
+        <tag>html5</tag>
+         
+        <tag>html5新特效</tag>
+         
+        <tag>html新特性</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
           
         </display>
     </data>
@@ -9015,25 +9014,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/11/26/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEapi%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9C%B0%E5%9B%BE/</loc>
+    <loc>http://www.npm8.com/2015/07/13/ie6-bug-overflowhidden%E5%A4%B1%E6%95%88/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>百度地图API自定义地图</title>
-        <pubTime>2015-11-26T06:15:14.000Z</pubTime>
+        <title>IE6 Bug overflow:hidden失效</title>
+        <pubTime>2015-07-13T06:01:37.000Z</pubTime>
         
-        <tag>百度地图</tag>
-         
-        <tag>百度地图API</tag>
-         
-        <tag>百度地图所见即所得工具</tag>
-         
-        <tag>百度地图自定义工具</tag>
+        <tag>overflow:hidden</tag>
          
          
            
              
-              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
           
         </display>
     </data>
@@ -9061,19 +9054,25 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/26/%E7%9B%91%E5%90%ACjson%E5%80%BC%E5%8F%98%E5%8C%96%E5%B9%B6%E6%89%A7%E8%A1%8C%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0/</loc>
+    <loc>http://www.npm8.com/2015/11/26/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEapi%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9C%B0%E5%9B%BE/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>监听json值变化并执行回调函数</title>
-        <pubTime>2015-07-26T09:00:07.000Z</pubTime>
+        <title>百度地图API自定义地图</title>
+        <pubTime>2015-11-26T06:15:14.000Z</pubTime>
         
-        <tag>监听json值变化</tag>
+        <tag>百度地图</tag>
+         
+        <tag>百度地图API</tag>
+         
+        <tag>百度地图所见即所得工具</tag>
+         
+        <tag>百度地图自定义工具</tag>
          
          
            
              
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
           
         </display>
     </data>
@@ -9107,6 +9106,26 @@
 
     
   <url>
+    <loc>http://www.npm8.com/2015/07/26/%E7%9B%91%E5%90%ACjson%E5%80%BC%E5%8F%98%E5%8C%96%E5%B9%B6%E6%89%A7%E8%A1%8C%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>监听json值变化并执行回调函数</title>
+        <pubTime>2015-07-26T09:00:07.000Z</pubTime>
+        
+        <tag>监听json值变化</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.npm8.com/2015/07/12/http%E4%B9%8Bget%E4%B8%8Epost%E5%8C%BA%E5%88%AB/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -9129,19 +9148,43 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/ie6-bug-overflowhidden%E5%A4%B1%E6%95%88/</loc>
+    <loc>http://www.npm8.com/2015/07/13/ie6ie7%E4%B8%8B%E4%BD%BF%E7%94%A8appendchild%E5%90%91%E9%A1%B5%E9%9D%A2%E6%B7%BB%E5%8A%A0table%E5%85%83%E7%B4%A0%E6%97%B6%E5%A4%B1%E6%95%88%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>IE6 Bug overflow:hidden失效</title>
-        <pubTime>2015-07-13T06:01:37.000Z</pubTime>
+        <title>IE6,IE7下使用appendChild向页面添加TABLE元素时失效的解决办法</title>
+        <pubTime>2015-07-13T05:56:11.000Z</pubTime>
         
-        <tag>overflow:hidden</tag>
+        <tag>appendChild</tag>
          
          
            
              
               <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2017/10/31/HTML5%E7%9A%84input%E4%B8%8A%E4%BC%A0%E7%B1%BB%E5%9E%8B%E6%8E%A7%E5%88%B6/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>HTML5的input上传类型控制</title>
+        <pubTime>2017-10-31T07:00:00.000Z</pubTime>
+        
+        <tag>HTML5的input上传类型控制</tag>
+         
+        <tag>input[type=file]</tag>
+         
+        <tag>input上传</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML5/CSS3" url="http://www.npm8.com/categories/HTML5-CSS3/"/>
           
         </display>
     </data>
@@ -9157,28 +9200,6 @@
         <pubTime>2015-07-13T06:57:13.000Z</pubTime>
         
         <tag>select语法</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/12/ajax%E3%80%81json%E4%B8%8Ejsonp%E8%AF%A6%E8%A7%A3%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AFjson%E3%80%81jsonp%EF%BC%8C%E5%92%8Cajax%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>ajax、json与jsonp详解：什么是json、jsonp，和ajax的区别</title>
-        <pubTime>2015-07-12T13:05:58.000Z</pubTime>
-        
-        <tag>json</tag>
-         
-        <tag>jsonp</tag>
          
          
            
@@ -9251,14 +9272,14 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/ie6ie7%E4%B8%8B%E4%BD%BF%E7%94%A8appendchild%E5%90%91%E9%A1%B5%E9%9D%A2%E6%B7%BB%E5%8A%A0table%E5%85%83%E7%B4%A0%E6%97%B6%E5%A4%B1%E6%95%88%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</loc>
+    <loc>http://www.npm8.com/2015/07/13/js-scrolltop%E5%9C%A8google%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8B%E4%B8%8D%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>IE6,IE7下使用appendChild向页面添加TABLE元素时失效的解决办法</title>
-        <pubTime>2015-07-13T05:56:11.000Z</pubTime>
+        <title>js scrollTop在GOOGLE浏览器下不兼容问题</title>
+        <pubTime>2015-07-13T06:02:56.000Z</pubTime>
         
-        <tag>appendChild</tag>
+        <tag>scrolltop</tag>
          
          
            
@@ -9313,39 +9334,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/js-scrolltop%E5%9C%A8google%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8B%E4%B8%8D%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98/</loc>
+    <loc>http://www.npm8.com/2015/07/17/jscookie%E5%88%9B%E5%BB%BA%EF%BC%8C%E8%AF%BB%E5%8F%96%EF%BC%8C%E5%88%A0%E9%99%A4/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>js scrollTop在GOOGLE浏览器下不兼容问题</title>
-        <pubTime>2015-07-13T06:02:56.000Z</pubTime>
+        <title>JS:cookie(创建，读取，删除)</title>
+        <pubTime>2015-07-17T05:07:54.000Z</pubTime>
         
-        <tag>scrolltop</tag>
+        <tag>js cookie</tag>
          
          
            
              
-              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/08/26/%E7%A7%BB%E5%8A%A8%E7%AB%AFjs-%E8%A7%A6%E6%91%B8%E4%BA%8B%E4%BB%B6%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>移动端JS 触摸事件基础</title>
-        <pubTime>2015-08-26T01:46:17.000Z</pubTime>
-        
-        <tag>移动端触摸事件</tag>
-         
-         
-           
-             
-              <breadCrumb title="移动前端" url="http://www.npm8.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -9373,6 +9374,68 @@
 
     
   <url>
+    <loc>http://www.npm8.com/2015/08/26/%E7%A7%BB%E5%8A%A8%E7%AB%AFjs-%E8%A7%A6%E6%91%B8%E4%BA%8B%E4%BB%B6%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>移动端JS 触摸事件基础</title>
+        <pubTime>2015-08-26T01:46:17.000Z</pubTime>
+        
+        <tag>移动端触摸事件</tag>
+         
+         
+           
+             
+              <breadCrumb title="移动前端" url="http://www.npm8.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/08/05/json%E7%AE%80%E4%BB%8B%E4%BB%A5%E5%8F%8A%E7%94%A8%E6%B3%95%E4%BB%A3%E7%A0%81%E6%B1%87%E6%80%BB/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>JSON简介以及用法代码汇总</title>
+        <pubTime>2015-08-05T09:03:44.000Z</pubTime>
+        
+        <tag>json用法汇总</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/08/26/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E4%B8%AD%E5%A6%82%E4%BD%95%E6%A3%80%E6%B5%8B%E8%AE%BE%E5%A4%87%E6%96%B9%E5%90%91%E7%9A%84%E5%8F%98%E5%8C%96%EF%BC%9F/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>移动端中如何检测设备方向的变化？</title>
+        <pubTime>2015-08-26T04:55:43.000Z</pubTime>
+        
+        <tag>检测设备方向</tag>
+         
+        <tag>移动端检测设备方向</tag>
+         
+         
+           
+             
+              <breadCrumb title="移动前端" url="http://www.npm8.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.npm8.com/2015/08/28/%E7%A7%BB%E5%8A%A8%E7%AB%AFweb%E5%BC%80%E5%8F%91%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E6%A8%AA%E7%AB%96%E5%B1%8F/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -9386,26 +9449,6 @@
            
              
               <breadCrumb title="移动前端" url="http://www.npm8.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/17/jscookie%E5%88%9B%E5%BB%BA%EF%BC%8C%E8%AF%BB%E5%8F%96%EF%BC%8C%E5%88%A0%E9%99%A4/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>JS:cookie(创建，读取，删除)</title>
-        <pubTime>2015-07-17T05:07:54.000Z</pubTime>
-        
-        <tag>js cookie</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -9453,48 +9496,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/08/26/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E4%B8%AD%E5%A6%82%E4%BD%95%E6%A3%80%E6%B5%8B%E8%AE%BE%E5%A4%87%E6%96%B9%E5%90%91%E7%9A%84%E5%8F%98%E5%8C%96%EF%BC%9F/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>移动端中如何检测设备方向的变化？</title>
-        <pubTime>2015-08-26T04:55:43.000Z</pubTime>
-        
-        <tag>检测设备方向</tag>
-         
-        <tag>移动端检测设备方向</tag>
-         
-         
-           
-             
-              <breadCrumb title="移动前端" url="http://www.npm8.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/08/05/json%E7%AE%80%E4%BB%8B%E4%BB%A5%E5%8F%8A%E7%94%A8%E6%B3%95%E4%BB%A3%E7%A0%81%E6%B1%87%E6%80%BB/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>JSON简介以及用法代码汇总</title>
-        <pubTime>2015-08-05T09:03:44.000Z</pubTime>
-        
-        <tag>json用法汇总</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2016/01/28/js%E4%B8%ADencodeuri%E5%92%8Cdecodeuri%E4%BB%8B%E7%BB%8D%E8%A7%A3%E5%86%B3url%E4%B8%AD%E4%BC%A0%E9%80%92%E4%B8%AD%E6%96%87%E5%8F%82%E6%95%B0%E4%B9%B1%E7%A0%81/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -9527,26 +9528,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/08/03/js%E4%B8%AD%E7%9A%84this%E7%9A%84%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>Js中的this的用法详解</title>
-        <pubTime>2015-08-03T02:03:11.000Z</pubTime>
-        
-        <tag>js中this</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2015/07/13/ie6ie7%E4%B8%8B%E8%AE%BE%E7%BD%AEbodyoverflowhidden%E5%A4%B1%E6%95%88/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -9560,6 +9541,26 @@
            
              
               <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/08/03/js%E4%B8%AD%E7%9A%84this%E7%9A%84%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>Js中的this的用法详解</title>
+        <pubTime>2015-08-03T02:03:11.000Z</pubTime>
+        
+        <tag>js中this</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -9609,21 +9610,63 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2017/10/27/Ant%20Design%E4%B8%AD%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6%E9%AA%8C%E8%AF%81/</loc>
+    <loc>http://www.npm8.com/2015/07/13/ie6%E4%B8%8D%E6%94%AF%E6%8C%81min-height%E3%80%81max-height%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Ant Design中实现自定义组件验证</title>
-        <pubTime>2017-10-27T07:25:23.000Z</pubTime>
+        <title>IE6不支持min-height、max-height的解决办法</title>
+        <pubTime>2015-07-13T07:53:56.000Z</pubTime>
         
-        <tag>Ant Design</tag>
+        <tag>ie6</tag>
          
-        <tag>Ant Design自定义组件验证</tag>
+        <tag>max-height</tag>
+         
+        <tag>min-height</tag>
          
          
            
              
-              <breadCrumb title="Reactjs" url="http://www.npm8.com/categories/Reactjs/"/>
+              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/31/js%E5%88%A4%E6%96%AD%E9%BC%A0%E6%A0%87%E4%BB%8E%E4%BB%80%E4%B9%88%E6%96%B9%E5%90%91%E8%BF%9B%E5%85%A5%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>JS判断鼠标从什么方向进入一个容器</title>
+        <pubTime>2015-07-31T05:24:09.000Z</pubTime>
+        
+        <tag>JS判断鼠标方向</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/08/31/js%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%EF%BC%88pc%E7%AB%AF%E5%92%8C%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%83%BD%E9%80%82%E7%94%A8%EF%BC%89/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>JS图片压缩（pc端和移动端都适用）</title>
+        <pubTime>2015-08-31T11:13:11.000Z</pubTime>
+        
+        <tag>js图片压缩</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -9673,34 +9716,14 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/31/js%E5%88%A4%E6%96%AD%E9%BC%A0%E6%A0%87%E4%BB%8E%E4%BB%80%E4%B9%88%E6%96%B9%E5%90%91%E8%BF%9B%E5%85%A5%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8/</loc>
+    <loc>http://www.npm8.com/2015/09/13/js%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E5%BC%95%E5%85%A5%E7%9A%84js%E6%96%87%E4%BB%B6%E6%98%AF%E5%90%A6%E5%8A%A0%E8%BD%BD%E5%AE%8C%E6%AF%95/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>JS判断鼠标从什么方向进入一个容器</title>
-        <pubTime>2015-07-31T05:24:09.000Z</pubTime>
+        <title>js如何判断引入的js文件是否加载完毕</title>
+        <pubTime>2015-09-13T14:05:14.000Z</pubTime>
         
-        <tag>JS判断鼠标方向</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/08/31/js%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%EF%BC%88pc%E7%AB%AF%E5%92%8C%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%83%BD%E9%80%82%E7%94%A8%EF%BC%89/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>JS图片压缩（pc端和移动端都适用）</title>
-        <pubTime>2015-08-31T11:13:11.000Z</pubTime>
-        
-        <tag>js图片压缩</tag>
+        <tag>判断js文件是否加载完毕</tag>
          
          
            
@@ -9733,26 +9756,6 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/11/%E7%AE%80%E5%8D%95%E9%80%9A%E7%94%A8ajax%E5%87%BD%E6%95%B0/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>简单通用Ajax函数</title>
-        <pubTime>2015-07-11T08:18:56.000Z</pubTime>
-        
-        <tag>Ajax函数</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.npm8.com/2016/01/07/%E7%AE%80%E8%BF%B0jquery-ajax%E7%9A%84%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -9773,34 +9776,14 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/09/13/js%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E5%BC%95%E5%85%A5%E7%9A%84js%E6%96%87%E4%BB%B6%E6%98%AF%E5%90%A6%E5%8A%A0%E8%BD%BD%E5%AE%8C%E6%AF%95/</loc>
+    <loc>http://www.npm8.com/2015/07/11/%E7%AE%80%E5%8D%95%E9%80%9A%E7%94%A8ajax%E5%87%BD%E6%95%B0/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>js如何判断引入的js文件是否加载完毕</title>
-        <pubTime>2015-09-13T14:05:14.000Z</pubTime>
+        <title>简单通用Ajax函数</title>
+        <pubTime>2015-07-11T08:18:56.000Z</pubTime>
         
-        <tag>判断js文件是否加载完毕</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2016/01/07/%E7%BB%88%E6%9E%81%E7%89%88%E8%AE%A8%E8%AE%BAjavascript%E4%B8%AD%E7%9A%84this%EF%BC%8C%E5%85%A8%E6%96%B9%E9%9D%A2%E6%B8%97%E9%80%8F/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>终极版讨论javascript中的this，全方面渗透</title>
-        <pubTime>2016-01-07T14:39:05.000Z</pubTime>
-        
-        <tag>javascript中的this</tag>
+        <tag>Ajax函数</tag>
          
          
            
@@ -9833,6 +9816,70 @@
 
     
   <url>
+    <loc>http://www.npm8.com/2015/09/28/js%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E5%A4%A7%E5%85%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>js基本功能大全</title>
+        <pubTime>2015-09-28T03:50:32.000Z</pubTime>
+        
+        <tag>js功能总结</tag>
+         
+        <tag>js基本函数</tag>
+         
+        <tag>js基本功能</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2016/01/07/%E7%BB%88%E6%9E%81%E7%89%88%E8%AE%A8%E8%AE%BAjavascript%E4%B8%AD%E7%9A%84this%EF%BC%8C%E5%85%A8%E6%96%B9%E9%9D%A2%E6%B8%97%E9%80%8F/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>终极版讨论javascript中的this，全方面渗透</title>
+        <pubTime>2016-01-07T14:39:05.000Z</pubTime>
+        
+        <tag>javascript中的this</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/09/13/ajax%E8%AF%B7%E6%B1%82%E4%B8%94%E5%B8%A6%E8%BF%94%E5%9B%9E%E5%80%BC%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%9E%E4%BE%8B/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>ajax请求且带返回值的代码实例</title>
+        <pubTime>2015-09-13T13:26:47.000Z</pubTime>
+        
+        <tag>ajax 返回值</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.npm8.com/2015/08/24/%E7%BD%91%E9%A1%B5%E4%B8%AD%E6%8F%92%E5%85%A5flash%EF%BC%88swf%E6%96%87%E4%BB%B6%EF%BC%89%EF%BC%8C%E5%B9%B6%E4%B8%94%E8%AE%A9flash%E4%B8%8D%E9%81%AE%E6%8C%A1html%E5%85%83%E7%B4%A0/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -9846,30 +9893,6 @@
            
              
               <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/13/ie6%E4%B8%8D%E6%94%AF%E6%8C%81min-height%E3%80%81max-height%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>IE6不支持min-height、max-height的解决办法</title>
-        <pubTime>2015-07-13T07:53:56.000Z</pubTime>
-        
-        <tag>ie6</tag>
-         
-        <tag>max-height</tag>
-         
-        <tag>min-height</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
           
         </display>
     </data>
@@ -9919,36 +9942,18 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/12/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E5%88%9D%E5%AD%A6%E8%80%85%E5%BA%94%E8%AF%A5%E6%8A%8A%E6%8F%A1%E5%87%A0%E4%B8%AA%E5%A4%A7%E5%B1%80/</loc>
+    <loc>http://www.npm8.com/2015/08/01/js%E5%AE%9E%E7%8E%B0%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F%E7%9A%84%E6%80%BB%E7%BB%93%E8%AF%A6%E8%A7%A3/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>网页设计初学者应该把握几个大局</title>
-        <pubTime>2015-07-12T13:54:27.000Z</pubTime>
+        <title>js实现继承方式的总结详解</title>
+        <pubTime>2015-08-01T06:44:51.000Z</pubTime>
         
+        <tag>js继承</tag>
          
-           
-             
-              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/09/28/js%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E5%A4%A7%E5%85%A8/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>js基本功能大全</title>
-        <pubTime>2015-09-28T03:50:32.000Z</pubTime>
-        
-        <tag>js功能总结</tag>
+        <tag>js继承总结</tag>
          
-        <tag>js基本函数</tag>
-         
-        <tag>js基本功能</tag>
+        <tag>js继承详解</tag>
          
          
            
@@ -9971,6 +9976,70 @@
         <tag>js标题变换</tag>
          
         <tag>js网页标题滚动</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/12/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E5%88%9D%E5%AD%A6%E8%80%85%E5%BA%94%E8%AF%A5%E6%8A%8A%E6%8F%A1%E5%87%A0%E4%B8%AA%E5%A4%A7%E5%B1%80/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>网页设计初学者应该把握几个大局</title>
+        <pubTime>2015-07-12T13:54:27.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2016/03/04/js%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%87%A0%E4%B8%AA%E6%96%B9%E6%B3%95%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>JS对象的几个方法介绍</title>
+        <pubTime>2016-03-04T08:54:20.000Z</pubTime>
+        
+        <tag>constructor</tag>
+         
+        <tag>hasOwnProperty</tag>
+         
+        <tag>instanceof</tag>
+         
+        <tag>toString</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/10/27/js%E5%AE%9E%E7%8E%B0%E8%B7%A8%E5%9F%9F%E7%9A%84%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>js实现跨域的方法总结</title>
+        <pubTime>2015-10-27T03:16:22.000Z</pubTime>
+        
+        <tag>js实现跨域的方法</tag>
          
          
            
@@ -10023,25 +10092,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2016/03/04/js%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%87%A0%E4%B8%AA%E6%96%B9%E6%B3%95%E4%BB%8B%E7%BB%8D/</loc>
+    <loc>http://www.npm8.com/2015/07/13/ie6%E4%B8%AD%E6%96%87%E5%AD%97%E6%BA%A2%E5%87%BA%E9%97%AE%E9%A2%98-%E5%A4%9A%E5%87%BA%E6%96%87%E5%AD%97/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>JS对象的几个方法介绍</title>
-        <pubTime>2016-03-04T08:54:20.000Z</pubTime>
+        <title>IE6中文字溢出问题-多出文字</title>
+        <pubTime>2015-07-13T06:09:24.000Z</pubTime>
         
-        <tag>constructor</tag>
-         
-        <tag>hasOwnProperty</tag>
-         
-        <tag>instanceof</tag>
-         
-        <tag>toString</tag>
+        <tag>IE6文字溢出</tag>
          
          
            
              
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
           
         </display>
     </data>
@@ -10049,18 +10112,16 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/08/01/js%E5%AE%9E%E7%8E%B0%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F%E7%9A%84%E6%80%BB%E7%BB%93%E8%AF%A6%E8%A7%A3/</loc>
+    <loc>http://www.npm8.com/2015/07/31/js%E5%BC%82%E6%AD%A5%E5%8A%A0%E8%BD%BD%E6%8A%80%E6%9C%AF-javascript%E6%8A%80%E6%9C%AF%E6%8F%90%E9%AB%98/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>js实现继承方式的总结详解</title>
-        <pubTime>2015-08-01T06:44:51.000Z</pubTime>
+        <title>js异步加载技术 JavaScript技术提高</title>
+        <pubTime>2015-07-31T05:28:40.000Z</pubTime>
         
-        <tag>js继承</tag>
+        <tag>JavaScript技术提高</tag>
          
-        <tag>js继承总结</tag>
-         
-        <tag>js继承详解</tag>
+        <tag>js异步加载技术</tag>
          
          
            
@@ -10093,61 +10154,21 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/10/27/js%E5%AE%9E%E7%8E%B0%E8%B7%A8%E5%9F%9F%E7%9A%84%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/</loc>
+    <loc>http://www.npm8.com/2017/10/27/axios%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>js实现跨域的方法总结</title>
-        <pubTime>2015-10-27T03:16:22.000Z</pubTime>
+        <title>axios使用详解</title>
+        <pubTime>2017-10-27T05:33:45.000Z</pubTime>
         
-        <tag>js实现跨域的方法</tag>
+        <tag>axios使用方法</tag>
+         
+        <tag>axios使用详解</tag>
          
          
            
              
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/31/js%E5%BC%82%E6%AD%A5%E5%8A%A0%E8%BD%BD%E6%8A%80%E6%9C%AF-javascript%E6%8A%80%E6%9C%AF%E6%8F%90%E9%AB%98/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>js异步加载技术 JavaScript技术提高</title>
-        <pubTime>2015-07-31T05:28:40.000Z</pubTime>
-        
-        <tag>JavaScript技术提高</tag>
-         
-        <tag>js异步加载技术</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/13/ie6%E4%B8%AD%E6%96%87%E5%AD%97%E6%BA%A2%E5%87%BA%E9%97%AE%E9%A2%98-%E5%A4%9A%E5%87%BA%E6%96%87%E5%AD%97/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>IE6中文字溢出问题-多出文字</title>
-        <pubTime>2015-07-13T06:09:24.000Z</pubTime>
-        
-        <tag>IE6文字溢出</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+              <breadCrumb title="ECMAScript6" url="http://www.npm8.com/categories/ECMAScript6/"/>
           
         </display>
     </data>
@@ -10165,46 +10186,6 @@
         <tag>js操作iframe</tag>
          
         <tag>js操作iframe框架的概念</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/09/13/ajax%E8%AF%B7%E6%B1%82%E4%B8%94%E5%B8%A6%E8%BF%94%E5%9B%9E%E5%80%BC%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%9E%E4%BE%8B/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>ajax请求且带返回值的代码实例</title>
-        <pubTime>2015-09-13T13:26:47.000Z</pubTime>
-        
-        <tag>ajax 返回值</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/09/09/js%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E9%AA%8C%E8%AF%81%E5%A4%A7%E5%85%A8/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>js正则表达式验证大全</title>
-        <pubTime>2015-09-09T13:35:14.000Z</pubTime>
-        
-        <tag>js正则表达式</tag>
          
          
            
@@ -10259,6 +10240,46 @@
 
     
   <url>
+    <loc>http://www.npm8.com/2015/09/09/js%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E9%AA%8C%E8%AF%81%E5%A4%A7%E5%85%A8/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>js正则表达式验证大全</title>
+        <pubTime>2015-09-09T13:35:14.000Z</pubTime>
+        
+        <tag>js正则表达式</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/31/ie6%E5%B8%B8%E8%A7%81bug/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>IE6常见bug</title>
+        <pubTime>2015-07-31T05:25:22.000Z</pubTime>
+        
+        <tag>IE6常见bug</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.npm8.com/2015/07/13/%E8%AF%AD%E4%B9%89%E5%8C%96%E4%BD%A0%E7%9A%84html%E6%A0%87%E7%AD%BE/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -10274,6 +10295,32 @@
            
              
               <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/26/js%E6%B7%BB%E5%8A%A0%E4%BA%8B%E4%BB%B6attachevent%E5%92%8Caddeventlistener%E7%9A%84%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>Js添加事件attachEvent和addEventListener的用法详解</title>
+        <pubTime>2015-07-26T07:16:58.000Z</pubTime>
+        
+        <tag>addEventListener</tag>
+         
+        <tag>attachEvent</tag>
+         
+        <tag>attachEvent和addEventListener区别</tag>
+         
+        <tag>attachEvent和addEventListener用法</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -10316,58 +10363,6 @@
            
              
               <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/08/26/js%E7%A6%81%E6%AD%A2%E6%A8%AA%E7%AB%96%E5%B1%8F%E5%88%87%E6%8D%A2%E5%BC%BA%E5%88%B6%E6%A8%AA%E7%AB%96%E5%B1%8F%E6%98%BE%E7%A4%BA/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>JS禁止横竖屏切换,强制横竖屏显示</title>
-        <pubTime>2015-08-26T08:37:07.000Z</pubTime>
-        
-        <tag>JS禁止横竖屏切换</tag>
-         
-         
-           
-             
-              <breadCrumb title="移动前端" url="http://www.npm8.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2016/03/22/%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%A4%8D%E5%88%B6%E7%A5%9E%E5%99%A8zeroclipboard%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E8%AF%A6%E8%A7%A3js%E5%A4%8D%E5%88%B6%E5%8A%9F%E8%83%BD/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>跨浏览器复制粘贴插件-ZeroClipboard快速入门详解(JS复制粘贴功能)</title>
-        <pubTime>2016-03-22T13:16:24.000Z</pubTime>
-        
-        <tag>JavaScript复制功能</tag>
-         
-        <tag>JavaScript复制粘贴功能</tag>
-         
-        <tag>js 复制功能</tag>
-         
-        <tag>js复制粘贴功能</tag>
-         
-        <tag>ZeroClipboard api</tag>
-         
-        <tag>ZeroClipboard.js</tag>
-         
-        <tag>ZeroClipboard.js详解</tag>
-         
-         
-           
-             
-              <breadCrumb title="插件库" url="http://www.npm8.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
           
         </display>
     </data>
@@ -10439,6 +10434,38 @@
 
     
   <url>
+    <loc>http://www.npm8.com/2016/03/22/%E8%B7%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%A4%8D%E5%88%B6%E7%A5%9E%E5%99%A8zeroclipboard%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E8%AF%A6%E8%A7%A3js%E5%A4%8D%E5%88%B6%E5%8A%9F%E8%83%BD/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>跨浏览器复制粘贴插件-ZeroClipboard快速入门详解(JS复制粘贴功能)</title>
+        <pubTime>2016-03-22T13:16:24.000Z</pubTime>
+        
+        <tag>JavaScript复制功能</tag>
+         
+        <tag>JavaScript复制粘贴功能</tag>
+         
+        <tag>js 复制功能</tag>
+         
+        <tag>js复制粘贴功能</tag>
+         
+        <tag>ZeroClipboard api</tag>
+         
+        <tag>ZeroClipboard.js</tag>
+         
+        <tag>ZeroClipboard.js详解</tag>
+         
+         
+           
+             
+              <breadCrumb title="插件库" url="http://www.npm8.com/categories/%E6%8F%92%E4%BB%B6%E5%BA%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.npm8.com/2017/04/14/%E8%BF%90%E7%94%A8%E5%8E%9F%E7%94%9Fjs%E7%BC%96%E5%86%99%E8%87%AA%E5%B7%B1%E7%9A%84jquery%E5%BA%93%EF%BC%88%E4%B8%89%EF%BC%89/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -10483,25 +10510,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/26/js%E6%B7%BB%E5%8A%A0%E4%BA%8B%E4%BB%B6attachevent%E5%92%8Caddeventlistener%E7%9A%84%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/</loc>
+    <loc>http://www.npm8.com/2015/08/26/js%E7%A6%81%E6%AD%A2%E6%A8%AA%E7%AB%96%E5%B1%8F%E5%88%87%E6%8D%A2%E5%BC%BA%E5%88%B6%E6%A8%AA%E7%AB%96%E5%B1%8F%E6%98%BE%E7%A4%BA/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>Js添加事件attachEvent和addEventListener的用法详解</title>
-        <pubTime>2015-07-26T07:16:58.000Z</pubTime>
+        <title>JS禁止横竖屏切换,强制横竖屏显示</title>
+        <pubTime>2015-08-26T08:37:07.000Z</pubTime>
         
-        <tag>addEventListener</tag>
-         
-        <tag>attachEvent</tag>
-         
-        <tag>attachEvent和addEventListener区别</tag>
-         
-        <tag>attachEvent和addEventListener用法</tag>
+        <tag>JS禁止横竖屏切换</tag>
          
          
            
              
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+              <breadCrumb title="移动前端" url="http://www.npm8.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
           
         </display>
     </data>
@@ -10509,19 +10530,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/31/ie6%E5%B8%B8%E8%A7%81bug/</loc>
+    <loc>http://www.npm8.com/2015/07/14/js%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E6%89%8B%E6%9C%BA%E8%B7%B3%E8%BD%AC%E5%9C%B0%E5%9D%80%E4%BB%A3%E7%A0%81/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>IE6常见bug</title>
-        <pubTime>2015-07-31T05:25:22.000Z</pubTime>
+        <title>js移动设备手机跳转地址代码</title>
+        <pubTime>2015-07-14T09:52:30.000Z</pubTime>
         
-        <tag>IE6常见bug</tag>
+        <tag>手机跳转地址</tag>
          
          
            
              
-              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+              <breadCrumb title="移动前端" url="http://www.npm8.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
           
         </display>
     </data>
@@ -10573,43 +10594,19 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/ie7ie8%E6%80%AA%E7%99%96%E6%A8%A1%E5%BC%8F%E4%B8%8Breflow%E4%B8%8Eexpression%E5%AF%BC%E8%87%B4%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
+    <loc>http://www.npm8.com/2015/07/13/ie%E3%80%81firefox%E3%80%81opera%E5%92%8Csafari%E5%AF%B9css%E6%A0%B7%E5%BC%8Fimportant%E5%92%8C%E7%9A%84%E6%94%AF%E6%8C%81/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>IE7,IE8怪癖模式下reflow与expression导致的问题</title>
-        <pubTime>2015-07-13T05:52:30.000Z</pubTime>
+        <title>IE、Firefox、Opera和Safari对CSS样式important和*的支持</title>
+        <pubTime>2015-07-13T06:05:45.000Z</pubTime>
         
-        <tag>expression</tag>
-         
-        <tag>reflow</tag>
+        <tag>important</tag>
          
          
            
              
               <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/12/js%E8%8E%B7%E5%8F%96%E5%87%A0%E7%A7%8Durl%E5%9C%B0%E5%9D%80%E7%9A%84%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>JS获取几种URL地址的方法</title>
-        <pubTime>2015-07-12T10:42:25.000Z</pubTime>
-        
-        <tag>js</tag>
-         
-        <tag>获取url</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
           
         </display>
     </data>
@@ -10657,6 +10654,26 @@
 
     
   <url>
+    <loc>http://www.npm8.com/2015/07/12/js%E8%8E%B7%E5%8F%96url%E5%8F%82%E6%95%B0%E5%80%BC/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>js获取url参数值</title>
+        <pubTime>2015-07-12T10:49:22.000Z</pubTime>
+        
+        <tag>url参数值</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.npm8.com/2015/07/17/%E9%97%AD%E5%8C%85%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
@@ -10677,52 +10694,16 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/12/%E9%9B%85%E8%99%8E35%E6%9D%A1%E4%BC%98%E5%8C%96%E9%BB%84%E9%87%91%E5%AE%88%E5%88%99/</loc>
+    <loc>http://www.npm8.com/2015/07/13/ie7ie8%E6%80%AA%E7%99%96%E6%A8%A1%E5%BC%8F%E4%B8%8Breflow%E4%B8%8Eexpression%E5%AF%BC%E8%87%B4%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>雅虎35条优化黄金守则</title>
-        <pubTime>2015-07-12T13:43:38.000Z</pubTime>
+        <title>IE7,IE8怪癖模式下reflow与expression导致的问题</title>
+        <pubTime>2015-07-13T05:52:30.000Z</pubTime>
         
+        <tag>expression</tag>
          
-           
-             
-              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/14/js%E8%8E%B7%E5%8F%96%E8%87%AA%E8%BA%AB%E6%89%80%E5%9C%A8%E6%96%87%E4%BB%B6%E7%9A%84%E7%9B%AE%E5%BD%95%E8%B7%AF%E5%BE%84/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>JS获取自身所在文件的目录路径</title>
-        <pubTime>2015-07-14T03:23:28.000Z</pubTime>
-        
-        <tag>js路径</tag>
-         
-         
-           
-             
-              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/13/ie%E3%80%81firefox%E3%80%81opera%E5%92%8Csafari%E5%AF%B9css%E6%A0%B7%E5%BC%8Fimportant%E5%92%8C%E7%9A%84%E6%94%AF%E6%8C%81/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>IE、Firefox、Opera和Safari对CSS样式important和*的支持</title>
-        <pubTime>2015-07-13T06:05:45.000Z</pubTime>
-        
-        <tag>important</tag>
+        <tag>reflow</tag>
          
          
            
@@ -10755,14 +10736,36 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/12/js%E8%8E%B7%E5%8F%96url%E5%8F%82%E6%95%B0%E5%80%BC/</loc>
+    <loc>http://www.npm8.com/2015/07/12/js%E8%8E%B7%E5%8F%96%E5%87%A0%E7%A7%8Durl%E5%9C%B0%E5%9D%80%E7%9A%84%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>js获取url参数值</title>
-        <pubTime>2015-07-12T10:49:22.000Z</pubTime>
+        <title>JS获取几种URL地址的方法</title>
+        <pubTime>2015-07-12T10:42:25.000Z</pubTime>
         
-        <tag>url参数值</tag>
+        <tag>js</tag>
+         
+        <tag>获取url</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/14/js%E8%8E%B7%E5%8F%96%E8%87%AA%E8%BA%AB%E6%89%80%E5%9C%A8%E6%96%87%E4%BB%B6%E7%9A%84%E7%9B%AE%E5%BD%95%E8%B7%AF%E5%BE%84/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>JS获取自身所在文件的目录路径</title>
+        <pubTime>2015-07-14T03:23:28.000Z</pubTime>
+        
+        <tag>js路径</tag>
          
          
            
@@ -10795,39 +10798,17 @@
 
     
   <url>
-    <loc>http://www.npm8.com/2015/07/13/ie%E4%B8%8Bjavascript%E7%9A%84%E5%90%84%E7%A7%8D%E9%94%99%E8%AF%AF%E4%B8%8Ejs%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98/</loc>
+    <loc>http://www.npm8.com/2015/07/12/%E9%9B%85%E8%99%8E35%E6%9D%A1%E4%BC%98%E5%8C%96%E9%BB%84%E9%87%91%E5%AE%88%E5%88%99/</loc>
     <lastmod>2017-11-03T02:53:48.000Z</lastmod>
     <data>
         <display>
-        <title>IE下javascript的各种错误与js兼容问题</title>
-        <pubTime>2015-07-13T05:56:43.000Z</pubTime>
+        <title>雅虎35条优化黄金守则</title>
+        <pubTime>2015-07-12T13:43:38.000Z</pubTime>
         
-        <tag>js兼容</tag>
-         
          
            
              
-              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.npm8.com/2015/07/14/js%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E6%89%8B%E6%9C%BA%E8%B7%B3%E8%BD%AC%E5%9C%B0%E5%9D%80%E4%BB%A3%E7%A0%81/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>js移动设备手机跳转地址代码</title>
-        <pubTime>2015-07-14T09:52:30.000Z</pubTime>
-        
-        <tag>手机跳转地址</tag>
-         
-         
-           
-             
-              <breadCrumb title="移动前端" url="http://www.npm8.com/categories/%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF/"/>
+              <breadCrumb title="前端杂货" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%B4%A7/"/>
           
         </display>
     </data>
@@ -10843,6 +10824,46 @@
         <pubTime>2015-09-10T02:38:13.000Z</pubTime>
         
         <tag>js跨浏览器事件</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端兼容" url="http://www.npm8.com/categories/%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/08/05/js%E8%B7%B3%E8%BD%AC%E5%88%B0%E6%8C%87%E5%AE%9A%E9%A1%B5%E9%9D%A2%E4%BB%A3%E7%A0%81/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>js跳转到指定页面代码</title>
+        <pubTime>2015-08-05T03:39:41.000Z</pubTime>
+        
+        <tag>js跳转页面</tag>
+         
+         
+           
+             
+              <breadCrumb title="JS/Jq" url="http://www.npm8.com/categories/JS-Jq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.npm8.com/2015/07/13/ie%E4%B8%8Bjavascript%E7%9A%84%E5%90%84%E7%A7%8D%E9%94%99%E8%AF%AF%E4%B8%8Ejs%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>IE下javascript的各种错误与js兼容问题</title>
+        <pubTime>2015-07-13T05:56:43.000Z</pubTime>
+        
+        <tag>js兼容</tag>
          
          
            
@@ -10883,25 +10904,4 @@
     
     
     
-  <url>
-    <loc>http://www.npm8.com/2015/09/22/sublime%E6%8F%92%E4%BB%B6-phaser-completions/</loc>
-    <lastmod>2017-11-03T02:53:48.000Z</lastmod>
-    <data>
-        <display>
-        <title>Sublime插件—Phaser Completions</title>
-        <pubTime>2015-09-22T05:08:58.000Z</pubTime>
-        
-        <tag>Phaser Completions</tag>
-         
-        <tag>Sublime插件phaser</tag>
-         
-         
-           
-             
-              <breadCrumb title="Phaser" url="http://www.npm8.com/categories/Phaser/"/>
-          
-        </display>
-    </data>
-    </url>
-
 </urlset>
